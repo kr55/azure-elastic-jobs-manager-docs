@@ -6,7 +6,8 @@ has_children: true
 nav_order: 2
 ---
 
-# Creating a New Job in Azure Elastic Jobs
+# Manage a job in Azure Elastic Jobs
+{: .no_toc }
 ## Table of contents
 {: .no_toc .text-delta }
 
