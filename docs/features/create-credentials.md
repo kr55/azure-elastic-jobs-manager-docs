@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create New Credentials
+title: Create credentials
 parent: Features
 has_children: true
 nav_order: 6

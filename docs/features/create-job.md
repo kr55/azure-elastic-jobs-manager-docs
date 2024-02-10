@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create New Job
+title: Create job
 parent: Features
 has_children: true
 nav_order: 2

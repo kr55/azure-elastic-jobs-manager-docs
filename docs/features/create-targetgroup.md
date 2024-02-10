@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create New Target Group
+title: Create target group
 parent: Features
 nav_order: 7
 ---
