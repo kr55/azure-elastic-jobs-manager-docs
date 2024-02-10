@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Tables
-parent: Features
-nav_order: 4
+title: Manage schedule
+parent: Manage job
+grand_parent: Features
+permalink: /docs/featurees/manage-job/manage-schedule/
 ---
+
 
 # Tables
 
