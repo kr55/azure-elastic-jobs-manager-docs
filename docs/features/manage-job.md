@@ -45,10 +45,21 @@ Ensure all required fields are filled out before clicking "OK" to avoid errors a
 ---
 
 ## Start job
+ **Steps to start an elastic job**
+   - On the left panel of the landing screen, right click on the job under 'Jobs' tree view.
+   - From the menu items, click 'Start job' button.
 
 ## Stop job
+ **Steps to stop an elastic job**
+   - On the left panel of the landing screen, right click on the job under 'Jobs' tree view.
+   - From the menu items, click 'Stop job' button.
 
 ## Enable/Disable job
+ **Steps to start an elastic job**
+   - On the left panel of the landing screen, right click on the job under 'Jobs' tree view.
+   - From the menu items, click 'Enable'/'Disable' button. 
+
+Note: Enable or Disable button in the menu list will apoear deoending on the current activation status of the job.
 
 ## View history
 
