@@ -14,6 +14,10 @@ Follow these steps to create a new job using the **Azure Elastic Job Agent** int
 1. **Navigation**
    - On the left panel, select "New Job" to open the job creation window.
 
+2. **General Information**
+   - **Name:** Enter the name of your job in the 'Name' field.
+   - **Description:** Provide a detailed description of your job in the 'Description' field.
+
 
 
 ### Note:
