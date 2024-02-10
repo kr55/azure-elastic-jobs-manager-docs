@@ -7,7 +7,13 @@ nav_order: 2
 ---
 
 # Creating a New Job in Azure Elastic Jobs
-{: .no_toc }
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Create or alter the job
 
 Follow these steps to create a new job using the **Azure Elastic Job Agent** interface:
 
@@ -36,15 +42,15 @@ Follow these steps to create a new job using the **Azure Elastic Job Agent** int
 ### Note:
 Ensure all required fields are filled out before clicking "OK" to avoid errors and ensure smooth creation of your new Azure elastic jobs.
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
-## Basic button styles
+## Start job
+
+## Stop job
+
+## Enable/Disable job
+
+## View history
 
 ### Links that look like buttons
 
