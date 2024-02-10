@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Create step
-parent: Create job
+title: Manage step
+parent: Manage job
 grand_parent: Features
-permalink: /docs/featurees/create-job/create-step/
+permalink: /docs/featurees/manage-job/manage-step/
 ---
 
 # Code snippets with line numbers
