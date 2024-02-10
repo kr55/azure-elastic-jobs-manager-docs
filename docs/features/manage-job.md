@@ -22,10 +22,12 @@ Follow these steps to create a new job using the **Azure Elastic Job Agent** int
    - **Last Run Outcome:** This field will display the outcome of the last run once the job has been executed.
    - **Last Executed:** Indicates when this particular job was last executed.
 
-4. **Script & Help Options**
-   - Click on “Script” if you need to view or edit scripts associated with this job.
-   - Click on “Help” for assistance and documentation related to this interface.
+5. **Progress Indicator**
+   - Monitor real-time progress at the bottom left corner under "Progress."
 
+6. **Save or Cancel**
+   - Click “OK” to save and create your new job.
+   - Click “Cancel” if you wish not to proceed with creating this new job.
 
 ### Note:
 Ensure all required fields are filled out before clicking "OK" to avoid errors and ensure smooth creation of your new Azure elastic jobs.
