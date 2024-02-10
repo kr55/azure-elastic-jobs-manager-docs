@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Callouts
-parent: UI Components
+title: Create New Target Group
+parent: Features
 nav_order: 7
 ---
 

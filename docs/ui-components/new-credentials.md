@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Code
-parent: UI Components
+title: Create New Credentials
+parent: Features
 has_children: true
 nav_order: 6
 ---

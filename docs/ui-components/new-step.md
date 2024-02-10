@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Code with line numbers
-parent: Code
-grand_parent: UI Components
-permalink: /docs/ui-components/code/line-numbers/
+title: Create New Step
+parent: Create New Job
+grand_parent: Features
+permalink: /docs/featurees/new-job/new-step/
 ---
 
 # Code snippets with line numbers
