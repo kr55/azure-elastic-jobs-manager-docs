@@ -2,6 +2,7 @@
 layout: default
 title: Manage target group
 parent: Documentation
+has_children: true
 nav_order: 7
 ---
 # Creating Target Groups and Adding Targets
