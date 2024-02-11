@@ -3,7 +3,7 @@ layout: default
 title: Manage job
 parent: Documentation
 has_children: true
-nav_order: 4
+nav_order: 5
 ---
 
 # Manage a job in Azure Elastic Jobs

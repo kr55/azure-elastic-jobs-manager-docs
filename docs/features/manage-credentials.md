@@ -2,7 +2,7 @@
 layout: default
 title: Manage credentials
 parent: Documentation
-nav_order: 5
+nav_order: 8
 ---
 
 # Creating Credentials for Elastic Jobs
