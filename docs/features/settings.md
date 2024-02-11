@@ -2,7 +2,7 @@
 layout: default
 title: Settings
 parent: Documentation
-nav_order: 11
+nav_order: 15
 ---
 # User Profile Settings
 

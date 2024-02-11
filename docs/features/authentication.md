@@ -2,7 +2,7 @@
 layout: default
 title: Authentication
 parent: Documentation
-nav_order: 3
+nav_order: 7
 ---
 # Connecting to Azure SQL Database with Elastic Jobs Configured
 

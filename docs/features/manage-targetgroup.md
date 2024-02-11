@@ -3,7 +3,7 @@ layout: default
 title: Manage target group
 parent: Documentation
 has_children: true
-nav_order: 9
+nav_order: 13
 ---
 # Managing target group
 

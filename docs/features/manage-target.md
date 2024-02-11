@@ -4,7 +4,7 @@ title: Manage target
 parent: Manage target group
 grand_parent: Documentation
 permalink: /docs/features/manage-targetgroup/manage-target/
-nav_order: 10
+nav_order: 14
 ---
 # Adding targets to target group
 

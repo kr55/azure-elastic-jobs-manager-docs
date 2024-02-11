@@ -3,7 +3,7 @@ layout: default
 title: Manage job
 parent: Documentation
 has_children: true
-nav_order: 5
+nav_order: 9
 ---
 
 # Manage a job

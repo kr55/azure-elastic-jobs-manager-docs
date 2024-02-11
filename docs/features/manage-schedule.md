@@ -4,7 +4,7 @@ title: Manage schedule
 parent: Manage job
 grand_parent: Documentation
 permalink: /docs/features/manage-job/manage-schedule/
-nav_order: 7
+nav_order: 11
 ---
 
 # Managing job schedule

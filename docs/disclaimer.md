@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Disclaimer
-nav_order: 5
+nav_order: 17
 ---
 
 # Disclaimer
