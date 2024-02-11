@@ -5,6 +5,44 @@ parent: Manage job
 grand_parent: Documentation
 permalink: /docs/featurees/manage-job/manage-step/
 ---
+# Job Properties - Creating Steps
+
+## Overview
+This document provides instructions on how to create steps within job properties using the 'testjob' interface.
+
+## Interface Elements
+- **Select a page**: Navigation pane including 'General', 'Steps', and 'Schedule'.
+- **Script & Help**: Buttons for additional options and assistance.
+- **Job step list**: A table displaying the steps, including columns for Step, StepName, Credential, TargetGroup, and Command.
+- **New/Edit/Delete**: Buttons to manage the steps.
+- **U/D**: Buttons to move the selected step up or down in the order.
+- **OK/Cancel**: Buttons to save changes or cancel.
+
+## Procedure to Add a New Step
+
+### 1. Open Job Properties
+   - Navigate to `Job Properties` for the specific job you want to edit.
+
+### 2. Go to Steps Page
+   - Click on `Steps` in the navigation pane on the left side.
+
+### 3. Add New Step
+   - Click on `New`.
+   - Fill out required information such as `StepName`, `Credential`, `TargetGroup`, and `Command`.
+   - Click `OK` to save.
+
+### 4. Edit Existing Step (optional)
+   - Select an existing step from the list.
+   - Click on `Edit`.
+   - Modify required fields and click `OK`.
+
+### 5. Delete a Step (optional)
+    - Select an existing step from the list.
+    - Click on ‘Delete’.
+    - Confirm deletion in pop-up window.
+
+## Saving Changes 
+After adding, editing or deleting steps ensure you click ‘OK’ at bottom of screen to save all changes made.
 
 # Code snippets with line numbers
 
