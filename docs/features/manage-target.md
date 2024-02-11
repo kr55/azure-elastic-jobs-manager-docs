@@ -2,7 +2,7 @@
 layout: default
 title: Manage target
 parent: Manage target group
-nav_order: 1
+nav_order: 7
 grand_parent: Documentation
 permalink: /docs/features/manage-targetgroup/manage-target/
 ---
