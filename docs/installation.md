@@ -171,7 +171,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-See [Customization]({% link docs/customization.md %}) for more information.
+See [Customization]({% link docs/disclaimer.md %}) for more information.
 
 ## Callouts
 {: .d-inline-block }
