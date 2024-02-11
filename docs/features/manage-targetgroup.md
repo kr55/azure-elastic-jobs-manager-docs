@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Manage target group
-parent: Azure Elastic Jobs Manager
+parent: Documentation
 nav_order: 7
 ---
 # Creating Target Groups and Adding Targets
