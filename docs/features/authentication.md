@@ -9,8 +9,7 @@ nav_order: 7
 ## Overview
 The **Login Screen** allows users to connect to an Azure SQL database where elastic jobs are configured. Users need to provide login details with minimum permissions. The authentication method used is SQL Server Authentication.
 
-![Alt Text](../../media/login-screen.png)
-
+<img src="../../media/login-screen.png"  style="width:60%; height:60%">
 ## Connection Details
 
 1. **Server Name**
