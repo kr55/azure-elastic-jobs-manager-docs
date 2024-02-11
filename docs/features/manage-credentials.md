@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Manage credentials
-parent: Azure Elastic Jobs Manager
+parent: Documentation
 has_children: true
 nav_order: 6
 ---
