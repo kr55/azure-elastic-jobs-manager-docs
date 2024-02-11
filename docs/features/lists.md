@@ -1,9 +1,27 @@
 ---
 layout: default
-title: Lists
-parent: Features
+title: Settings
+parent: Documentation
 nav_order: 5
 ---
+# User Profile Settings
+
+## Overview
+The **Settings** screen allows users to manage their preferences, which will be stored for subsequent uses of the tool. Users can customize their experience by adjusting the following settings:
+
+### 1. Enable Automatic Screen Refresh
+- Users can enable or disable automatic screen refresh.
+- If enabled, users can set the refresh interval in minutes.
+
+### 2. Choose Preferred Time Zone
+- Users can select their preferred time zone from a dropdown menu.
+- The selected time zone will be saved for future sessions.
+
+### 3. Reset Settings and Clear User Profiles
+- Clicking "Reset Now" will restore settings to default and clear all saved user profiles.
+
+## Saving and Exiting 
+After making desired changes, click "Finish" to save preferences and exit the settings screen.
 
 # Lists
 {: .no_toc }
