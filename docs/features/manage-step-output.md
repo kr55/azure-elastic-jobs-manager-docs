@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Manage targets
-parent: Manage target group
-nav_order: 1
-grand_parent: Documentation
+title: Manage step output
+parent: Manage step
+nav_order: 12
+grand_parent: Manage job
 permalink: /docs/featurees/manage-targetgroup/manage-target/
 ---
 # Adding Targets to Target Group
