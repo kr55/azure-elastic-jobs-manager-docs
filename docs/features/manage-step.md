@@ -4,7 +4,7 @@ title: Manage step
 parent: Manage job
 grand_parent: Documentation
 permalink: /docs/features/manage-job/manage-step/
-nav_order:3
+nav_order:1
 ---
 # Job Properties - Creating Steps
 
