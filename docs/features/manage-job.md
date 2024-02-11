@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Manage job
-parent: Features
+parent: Azure Elastic Jobs Manager
 has_children: true
 nav_order: 2
 ---
