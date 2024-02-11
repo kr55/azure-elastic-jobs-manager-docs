@@ -2,7 +2,7 @@
 layout: default
 title: Manage step
 parent: Manage job
-grand_parent: Features
+grand_parent: Azure Elastic Jobs Manager
 permalink: /docs/featurees/manage-job/manage-step/
 ---
 
