@@ -4,7 +4,7 @@ title: Manage step output
 parent: Manage step
 nav_order: 12
 grand_parent: Manage job
-permalink: /docs/featurees/manage-targetgroup/manage-target/
+permalink: /docs/featurees/manage-job/manage-step/manage-step-output
 ---
 # Adding Targets to Target Group
 
