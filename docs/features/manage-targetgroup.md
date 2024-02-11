@@ -5,7 +5,7 @@ parent: Documentation
 has_children: true
 nav_order: 9
 ---
-# Creating Target Groups and Adding Targets
+# Managing target group
 
 ## Overview
 The **Create Target Group** screen allows users to create a new target group. Once the target group is created, users can add specific targets (databases) where jobs will be executed.

@@ -6,7 +6,7 @@ grand_parent: Documentation
 permalink: /docs/features/manage-targetgroup/manage-target/
 nav_order: 10
 ---
-# Adding Targets to Target Group
+# Adding targets to target group
 
 ## Overview
 The **Add Target** screen allows users to specify and add targets to a previously created target group. Targets represent databases where jobs will be executed. Users can choose from three target types: SqlServer, SqlElasticPool, and SqlDatabase.

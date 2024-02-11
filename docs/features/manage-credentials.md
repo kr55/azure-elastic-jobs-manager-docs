@@ -5,7 +5,7 @@ parent: Documentation
 nav_order: 8
 ---
 
-# Creating Credentials for Elastic Jobs
+# Managing credentials
 
 ## Overview
 The **New Credential** screen is launched when a user clicks on "Create Credentials". This interface is used for creating credentials for elastic jobs. Note that these credentials are only relevant when elastic jobs do not have user assigned managed identity enabled.

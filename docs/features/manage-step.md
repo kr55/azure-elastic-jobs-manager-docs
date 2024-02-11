@@ -6,7 +6,7 @@ grand_parent: Documentation
 permalink: /docs/features/manage-job/manage-step/
 nav_order: 6
 ---
-# Job Properties - Creating Steps
+# Managing job steps
 
 ## Overview
 This document provides instructions on how to create steps within job properties using the 'testjob' interface.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Structure
+title: Disclaimer
 nav_order: 5
 ---
 
