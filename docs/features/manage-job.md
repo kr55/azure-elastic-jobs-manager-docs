@@ -40,7 +40,7 @@ Follow these steps to create a new job using the **Azure Elastic Job Agent** int
    - Click “OK” to save and create your new job.
    - Click “Cancel” if you wish not to proceed with creating this new job.
 
-### Note:
+{: .note }
 Ensure all required fields are filled out before clicking "OK" to avoid errors and ensure smooth creation of your new Azure elastic jobs.
 
 ---
