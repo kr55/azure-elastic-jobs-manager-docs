@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Features
+title: Azure Elastic Jobs Manager
 nav_order: 3
 has_children: true
 permalink: /docs/features
 ---
 
-# UI Components
+# Azure Elastic Jobs Manager
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+Azure Elastic Jobs Manager enables seamless management of elastic jobs in Azure directly from your desktop. This tool serves as an extension to Visual Studio versions 2017, 2019, and 2022, as well as SQL Server Management Studio versions 18 and 19, streamlining the process of overseeing your elastic job deployments.
 {: .fs-6 .fw-300 }
