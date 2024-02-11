@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Manage target group
-parent: Features
+parent: Azure Elastic Jobs Manager
 nav_order: 7
 ---
 
