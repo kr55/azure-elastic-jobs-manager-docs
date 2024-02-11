@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Home screen
 parent: Documentation
 nav_order: 8
 ---
@@ -18,13 +18,9 @@ Upon logging in to the Elastic Job Agent, users are presented with the landing s
 
 ### Jobs Section
 Lists all existing jobs with their names and statuses:
-   - DataStore-update index of boarding pe...
-   - test j
-   - DataStore-Maintenance-full
 
 ### Target Groups Section
 Displays all target groups:
-   - DatabaseGroup1
 
 ### Job Credentials Type 
 Indicates the type of job credentials being used, e.g., Database-scoped credentials.

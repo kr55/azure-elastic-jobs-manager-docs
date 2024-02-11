@@ -29,7 +29,7 @@ Follow these steps to create a new job using the **Azure Elastic Job Agent** int
    - **Last Run Outcome:** This field will display the outcome of the last run once the job has been executed.
    - **Last Executed:** Indicates when this particular job was last executed.
      
-4. **Script & Help Options**
+4. **Script & Help Options**hom
    - Click on “Script” if you need to view or edit scripts associated with this job.
    - Click on “Help” for assistance and documentation related to this interface.
 
