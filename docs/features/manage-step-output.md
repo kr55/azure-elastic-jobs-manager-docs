@@ -3,7 +3,7 @@ layout: default
 title: Manage step output
 parent: Manage step
 nav_order: 12
-grand_parent: Manage job
+grand_parent: Documentation
 permalink: /docs/features/manage-job/manage-step/manage-step-output
 ---
 # Configuring Job Step Output to Database Table

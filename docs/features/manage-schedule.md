@@ -3,7 +3,7 @@ layout: default
 title: Manage schedule
 parent: Manage job
 grand_parent: Documentation
-permalink: /docs/featurees/manage-job/manage-schedule/
+permalink: /docs/features/manage-job/manage-schedule/
 ---
 
 # Azure Elastic Jobs Manager - Managing Job Schedule

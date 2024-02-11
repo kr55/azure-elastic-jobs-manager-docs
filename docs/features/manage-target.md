@@ -4,7 +4,7 @@ title: Manage target
 parent: Manage target group
 nav_order: 1
 grand_parent: Documentation
-permalink: /docs/featurees/manage-targetgroup/manage-target/
+permalink: /docs/features/manage-targetgroup/manage-target/
 ---
 # Adding Targets to Target Group
 

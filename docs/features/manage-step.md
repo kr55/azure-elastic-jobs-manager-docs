@@ -3,7 +3,7 @@ layout: default
 title: Manage step
 parent: Manage job
 grand_parent: Documentation
-permalink: /docs/featurees/manage-job/manage-step/
+permalink: /docs/features/manage-job/manage-step/
 ---
 # Job Properties - Creating Steps
 
