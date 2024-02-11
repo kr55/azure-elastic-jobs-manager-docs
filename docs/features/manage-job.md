@@ -63,12 +63,9 @@ Ensure all required fields are filled out before clicking "OK" to avoid errors a
 Note: Enable or Disable button in the menu list will apoear deoending on the current activation status of the job.
 
 ## View history
-# Job History Viewer
-
-## Overview
 The **Job History Viewer** screen provides detailed information about the execution history of specific jobs. Users can access this screen by clicking on the "View History" menu item of a job.
 
-## Features and Information Displayed:
+### Features and Information Displayed:
 
 1. **Job List:**
    - Displays a list of jobs with their names, creation times, start times, end times, lifecycle statuses, and messages.
@@ -81,86 +78,8 @@ The **Job History Viewer** screen provides detailed information about the execut
 3. **Execution Message:**
    - At the bottom of the screen is a message displaying the success or failure status of the step execution along with additional details.
 
-## Navigation:
+### Navigation:
 Users can navigate through different jobs and their steps to monitor and analyze their execution histories.
 
 For further assistance, click on the ‘Help’ icon at the top-right corner of the dialog box.
 
-
-### Links that look like buttons
-
-<div class="code-example" markdown="1">
-[Link button](https://just-the-docs.com){: .btn }
-
-[Link button](https://just-the-docs.com){: .btn .btn-purple }
-[Link button](https://just-the-docs.com){: .btn .btn-blue }
-[Link button](https://just-the-docs.com){: .btn .btn-green }
-
-[Link button](https://just-the-docs.com){: .btn .btn-outline }
-</div>
-```markdown
-[Link button](https://just-the-docs.com){: .btn }
-
-[Link button](https://just-the-docs.com){: .btn .btn-purple }
-[Link button](https://just-the-docs.com){: .btn .btn-blue }
-[Link button](https://just-the-docs.com){: .btn .btn-green }
-
-[Link button](https://just-the-docs.com){: .btn .btn-outline }
-```
-
-### Button element
-
-GitHub Flavored Markdown does not support the `button` element, so you'll have to use inline HTML for this:
-
-<div class="code-example">
-<button type="button" name="button" class="btn">Button element</button>
-</div>
-```html
-<button type="button" name="button" class="btn">Button element</button>
-```
-
----
-
-## Using utilities with buttons
-
-### Button size
-
-Wrap the button in a container that uses the [font-size utility classes]({% link docs/utilities/typography.md %}) to scale buttons:
-
-<div class="code-example" markdown="1">
-<span class="fs-6">
-[Big ass button](https://just-the-docs.com){: .btn }
-</span>
-
-<span class="fs-3">
-[Tiny ass button](https://just-the-docs.com){: .btn }
-</span>
-</div>
-```markdown
-<span class="fs-8">
-[Link button](https://just-the-docs.com){: .btn }
-</span>
-
-<span class="fs-3">
-[Tiny ass button](https://just-the-docs.com){: .btn }
-</span>
-```
-
-### Spacing between buttons
-
-Use the [margin utility classes]({% link docs/utilities/layout.md %}#spacing) to add spacing between two buttons in the same block.
-
-<div class="code-example" markdown="1">
-[Button with space](https://just-the-docs.com){: .btn .btn-purple .mr-2 }
-[Button](https://just-the-docs.com){: .btn .btn-blue }
-
-[Button with more space](https://just-the-docs.com){: .btn .btn-green .mr-4 }
-[Button](https://just-the-docs.com){: .btn .btn-blue }
-</div>
-```markdown
-[Button with space](https://just-the-docs.com){: .btn .btn-purple .mr-2 }
-[Button](https://just-the-docs.com){: .btn .btn-blue }
-
-[Button with more space](https://just-the-docs.com){: .btn .btn-green .mr-4 }
-[Button](https://just-the-docs.com){: .btn .btn-blue }
-```
