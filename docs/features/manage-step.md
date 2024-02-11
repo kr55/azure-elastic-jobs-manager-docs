@@ -111,38 +111,6 @@ The **Advanced** page of the step properties allows users to configure retry set
 
 Note: These are default values except for Max Parallelism which has a default value of 0 meaning null (unlimited parallel executions allowed).
 
-# Configuring Job Step Output to Database Table
-
-## Overview
-The **Output** page in the Step Properties dialog box allows users to enable and configure the output of a job step to a database table. This feature is particularly useful for logging and monitoring job execution.
-
-## Enabling Job Step Output
-
-1. **Navigate to the Output Page**
-   - Open the Step Properties dialog box.
-   - Select the 'Output' tab from the left sidebar.
-
-2. **Enable Job Step Output**
-   - Check the 'Enable output' checkbox.
-
-3. **Configure Database Connection**
-    - Enter or select the server name where your database is hosted.
-    - Provide a credential name or choose from existing credentials by clicking on 'New'.
-
-4. **Specify Database Details**
-    - Input the name of your database.
-    - Enter the table schema name and table name where job step outputs will be stored.
-
-5. **Save Configuration**
-    - Click ‘OK’ to save your settings and close the dialog box.
-
-## Additional Information
-- Ensure that you have necessary permissions to write data into the specified database table.
-- Verify server connectivity before enabling job step output.
-
-For further assistance, click on the ‘Help’ icon at the top-right corner of the dialog box.
-
-
 # Code snippets with line numbers
 
 {: .warning }

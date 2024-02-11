@@ -4,34 +4,39 @@ title: Manage step output
 parent: Manage step
 nav_order: 12
 grand_parent: Manage job
-permalink: /docs/featurees/manage-job/manage-step/manage-step-output
+permalink: /docs/features/manage-job/manage-step/manage-step-output
 ---
-# Adding Targets to Target Group
+# Configuring Job Step Output to Database Table
 
 ## Overview
-The **Add Target** screen allows users to specify and add targets to a previously created target group. Targets represent databases where jobs will be executed. Users can choose from three target types: SqlServer, SqlElasticPool, and SqlDatabase.
+The **Output** page in the Step Properties dialog box allows users to enable and configure the output of a job step to a database table. This feature is particularly useful for logging and monitoring job execution.
 
-## Steps to Add a New Target
+## Enabling Job Step Output
 
-1. **Navigate to the Add Target Screen**
-   - Click on "Add target to target group" from the previous screen to open this interface.
+1. **Navigate to the Output Page**
+   - Open the Step Properties dialog box.
+   - Select the 'Output' tab from the left sidebar.
 
-2. **Select Target Type**
-   - Choose one of the following target types:
-     - **SqlServer**: Select the server name and refresh credential name.
-     - **SqlElasticPool**: Provide the server name, refresh credential name, and elastic pool name.
-     - **SqlDatabase**: Specify the server name and refresh credential name.
+2. **Enable Job Step Output**
+   - Check the 'Enable output' checkbox.
 
-3. **Fill in Additional Fields**
-   - Depending on the selected target type, additional fields will appear:
-     - For SqlElasticPool: Enter the elastic pool name.
-     - For other types: No additional fields are required.
+3. **Configure Database Connection**
+    - Enter or select the server name where your database is hosted.
+    - Provide a credential name or choose from existing credentials by clicking on 'New'.
 
-4. **Click OK to Add the New Target**
-   - Confirm your choices and add the target to the target group.
+4. **Specify Database Details**
+    - Input the name of your database.
+    - Enter the table schema name and table name where job step outputs will be stored.
 
-## Closing Interface
-Click on “Cancel” or close the window to exit without adding a new target.
+5. **Save Configuration**
+    - Click ‘OK’ to save your settings and close the dialog box.
+
+## Additional Information
+- Ensure that you have necessary permissions to write data into the specified database table.
+- Verify server connectivity before enabling job step output.
+
+For further assistance, click on the ‘Help’ icon at the top-right corner of the dialog box.
+
 
 # Typography
 {: .no_toc }
