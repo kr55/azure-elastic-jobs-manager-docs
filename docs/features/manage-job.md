@@ -41,6 +41,7 @@ Follow these steps to create a new job using the **Azure Elastic Job Agent** int
    - Click “Cancel” if you wish not to proceed with creating this new job.
 
 ### Note:
+{: .no_toc }
 Ensure all required fields are filled out before clicking "OK" to avoid errors and ensure smooth creation of your new Azure elastic jobs.
 
 ---
@@ -63,12 +64,11 @@ Ensure all required fields are filled out before clicking "OK" to avoid errors a
 Note: Enable or Disable button in the menu list will apoear deoending on the current activation status of the job.
 
 ## View history
-# Job History Viewer
 
-## Overview
 The **Job History Viewer** screen provides detailed information about the execution history of specific jobs. Users can access this screen by clicking on the "View History" menu item of a job.
 
-## Features and Information Displayed:
+### Features and Information Displayed:
+{: .no_toc }
 
 1. **Job List:**
    - Displays a list of jobs with their names, creation times, start times, end times, lifecycle statuses, and messages.
@@ -81,7 +81,8 @@ The **Job History Viewer** screen provides detailed information about the execut
 3. **Execution Message:**
    - At the bottom of the screen is a message displaying the success or failure status of the step execution along with additional details.
 
-## Navigation:
+### Navigation:
+{: .no_toc }
 Users can navigate through different jobs and their steps to monitor and analyze their execution histories.
 
 For further assistance, click on the ‘Help’ icon at the top-right corner of the dialog box.
