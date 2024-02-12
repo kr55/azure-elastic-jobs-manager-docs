@@ -16,10 +16,12 @@ The **New Credential** screen is launched when a user clicks on "Create Credenti
 - A text field where users enter the username associated with the credential.
 
 ### Password
-- A text field for entering the password. It's masked for security purposes.
+- A text field for entering the password. It's masked for security purposes. 
 
 ### Identity 
-- A dropdown menu to select the identity, providing options based on the available identities.
+- A text field for entering identity associated with the credentials.
+
+Note: Identity and password used to create the credentials should match exactly with the user creaed in each target database.
 
 ### Create Master Key 
 - An option available to create a master key if required.
