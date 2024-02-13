@@ -34,12 +34,12 @@ Follow these steps to create a new job using the **Azure Elastic Job Agent** int
    - **Last Executed:** Indicates when this particular job was last executed.
      
 4. **Script & Help Options**
-   - Click on “Script” if you want to script the changes made in the job. This is a SQL script that will be executed against the agent job database when users saves job changes.
-   - Click on “Help” for assistance and documentation related to this interface.
+   - Click on `Script` if you want to script the changes made in the job. This is a SQL script that will be executed against the agent job database when users saves job changes.
+   - Click on `Help` for assistance and documentation related to this interface.
 
 5. **Save or Cancel**
-   - Click “OK” to save and create or alter the job.
-   - Click “Cancel” to discard the changes.
+   - Click `OK` to save and create or alter the job.
+   - Click `Cancel` to discard the changes.
 
 {: .note }
 Ensure all required fields are filled out before clicking "OK" to avoid errors and ensure smooth creation of your new Azure elastic jobs.
