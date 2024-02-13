@@ -18,27 +18,28 @@ nav_order: 9
 
 Follow these steps to create a new job using the **Azure Elastic Job Agent** interface:
 
+<img src="../../media/job-general-screen.png"  style="width:60%; height:60%">
+
 1. **Navigation**
-   - On the left panel, select "New Job" to open the job creation window.
+   - On the top panel, select `New Job` to open the job creation window.
+   - Double-click on an existing job to edit the job.
+   - Right-click on an existing job and click on `Properties` to edit the job.
 
 2. **General Information**
-   - **Name:** Enter the name of your job in the 'Name' field.
-   - **Description:** Provide a detailed description of your job in the 'Description' field.
+   - **Name:** Enter the name of your job in the `Name` field.
+   - **Description:** Provide description of your job in the `Description` field.
 
 3. **Job Execution Details**
    - **Last Run Outcome:** This field will display the outcome of the last run once the job has been executed.
    - **Last Executed:** Indicates when this particular job was last executed.
      
-4. **Script & Help Options**hom
-   - Click on “Script” if you need to view or edit scripts associated with this job.
+4. **Script & Help Options**
+   - Click on “Script” if you want to script the changes made in the job. This is a SQL script that will be executed against the agent job database when users saves job changes.
    - Click on “Help” for assistance and documentation related to this interface.
 
-5. **Progress Indicator**
-   - Monitor real-time progress at the bottom left corner under "Progress."
-
-6. **Save or Cancel**
-   - Click “OK” to save and create your new job.
-   - Click “Cancel” if you wish not to proceed with creating this new job.
+5. **Save or Cancel**
+   - Click “OK” to save and create or alter the job.
+   - Click “Cancel” to discard the changes.
 
 {: .note }
 Ensure all required fields are filled out before clicking "OK" to avoid errors and ensure smooth creation of your new Azure elastic jobs.
