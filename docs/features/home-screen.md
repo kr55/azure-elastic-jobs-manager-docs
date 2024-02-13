@@ -6,7 +6,7 @@ nav_order: 8
 ---
 
 ## Overview
-Upon logging in to the Elastic Job Agent, users are presented with the landing screen of Azure Elastic Jobs Manager. This interface serves as the central hub for managing and monitoring various jobs and target groups.
+Upon logging in to the Azure Elastic Job database, users are presented with the landing screen of Azure Elastic Jobs Manager. This interface serves as the central hub for managing and monitoring various jobs and target groups.
 
 ## Interface Elements
 
@@ -15,6 +15,8 @@ Upon logging in to the Elastic Job Agent, users are presented with the landing s
 - **New Credentials**: Enables users to add new credentials.
 - **New Target Group**: Users can create a new target group.
 - **Refresh**: Refreshes the current view.
+
+<img src="../../media/home-screen.png"  style="width:60%; height:60%">
 
 ### Jobs Section
 Lists all existing jobs with their names and statuses:
