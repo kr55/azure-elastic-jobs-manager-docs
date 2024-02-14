@@ -17,7 +17,7 @@ The **Job Schedule Management** screen in Azure Elastic Jobs allows you to confi
    - Double-click on an existing job to edit the job. Click `Schedule` tab.
    - Right-click on an existing job and click on `Manage Schedule`.
 
-   <img src="../../media/job-schedule-screen.png"  style="width:60%; height:60%">
+   <img src="../../../media/job-schedule-screen.png" style="width:60%; height:60%">
 
 ## Schedule Configuration Options
 1. **Enabled Checkbox**:
