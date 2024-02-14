@@ -16,14 +16,15 @@ nav_order: 9
 
 ## Create or alter the job
 
-Follow these steps to create a new job using the **Azure Elastic Job Agent** interface:
+### Navigation
 
-<img src="../../media/job-general-screen.png"  style="width:60%; height:60%">
-
-1. **Navigation**
    - On the top panel, select `New Job` to open the job creation window.
    - Double-click on an existing job to edit the job.
    - Right-click on an existing job and click on `Properties` to edit the job.
+
+   <img src="../../media/job-general-screen.png"  style="width:60%; height:60%">
+
+Follow these steps to create a new job using the **Azure Elastic Job Agent** interface:
 
 2. **General Information**
    - **Name:** Enter the name of your job in the `Name` field.
