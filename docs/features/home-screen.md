@@ -16,7 +16,7 @@ Upon logging in to the Azure Elastic Job database, users are presented with the 
 - **New Target Group**: Users can create a new target group.
 - **Refresh**: Refreshes the current view.
 
-<img src="../../media/home-screen.png"  style="width:60%; height:60%">
+<img src="../../media/home-screen.png"  style="width:80%; height:80%">
 
 ### Jobs Section
 Lists all existing jobs with their names and statuses:

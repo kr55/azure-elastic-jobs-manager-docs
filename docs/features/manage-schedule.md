@@ -17,7 +17,7 @@ This section describes how to configure scheduling options for your jobs.
    - Double-click on an existing job to edit the job. Click `Schedule` tab.
    - Right-click on an existing job and click on `Manage Schedule`.
 
-   <img src="../../../../media/job-schedule-screen.png" style="width:60%; height:60%">
+   <img src="../../../../media/job-schedule-screen.png" style="width:80%; height:80%">
 
 ## Schedule Configuration Options
 1. **Enabled Checkbox**:

@@ -11,7 +11,7 @@ nav_order: 10
 ## Overview
 This section describes how to create/modify steps within a job.
 
-   <img src="../../../../media/job-steps-screen.png" style="width:60%; height:60%">
+   <img src="../../../../media/job-steps-screen.png" style="width:80%; height:80%">
 
 ## Interface Elements
 - **Select a page**: Navigation pane including 'General', 'Steps', and 'Schedule'.
@@ -54,7 +54,7 @@ The **Step Properties** screen allows users to manage individual job steps withi
 
 ### Interface Elements
 
-   <img src="../../../../media/step-general-screen.png" style="width:60%; height:60%">
+   <img src="../../../../media/step-general-screen.png" style="width:80%; height:80%">
 
 1. **Navigation Pane**
    - Located on the left side, it allows users to navigate between different sections: General, Advanced, and Output settings for the selected step.
@@ -83,7 +83,7 @@ The **Step Properties** screen allows users to manage individual job steps withi
 ## Overview
 The **Advanced** page of the step properties allows users to configure retry settings for optimizing the performance and reliability of their job steps. Below are the options available:
 
-   <img src="../../../../media/step-advanced-screen.png" style="width:60%; height:60%">
+   <img src="../../../../media/step-advanced-screen.png" style="width:80%; height:80%">
 
 ### 1. Step Timeout
 - **Description**: The maximum amount of time allocated for a step to complete.
@@ -122,7 +122,7 @@ Note: These are default values except for Max Parallelism which has a default va
 ## Overview
 The **Output** page in the Step Properties dialog box allows users to enable and configure the output of a job step to a database table. This feature is particularly useful for logging and monitoring job execution.
 
-   <img src="../../../../media/step-output-screen.png" style="width:60%; height:60%">
+   <img src="../../../../media/step-output-screen.png" style="width:80%; height:80%">
 
 ## Enabling Job Step Output
 

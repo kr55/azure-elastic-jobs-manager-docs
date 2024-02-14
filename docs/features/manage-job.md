@@ -22,7 +22,7 @@ nav_order: 9
    - Double-click on an existing job to edit the job.
    - Right-click on an existing job and click on `Properties` to edit the job.
 
-   <img src="../../media/job-general-screen.png"  style="width:60%; height:60%">
+   <img src="../../media/job-general-screen.png"  style="width:80%; height:80%">
 
 Follow these steps to create a new job using the **Azure Elastic Job Agent** interface:
 
@@ -67,7 +67,7 @@ Note: Enable or Disable button in the menu list will apoear deoending on the cur
 ## View history
 The **Job History Viewer** screen provides detailed information about the execution history of specific jobs. Users can access this screen by clicking on the "View History" menu item of a job.
 
-   <img src="../../media/job-history-screen.png"  style="width:60%; height:60%">
+   <img src="../../media/job-history-screen.png"  style="width:80%; height:80%">
 
 ### Features and Information Displayed:
 {: .no_toc }
