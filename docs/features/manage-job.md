@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Managing jobs
-parent: Create job
+parent: Create a job
 grand_parent: Documentation
 permalink: /docs/features/create-job/manage-job/
 nav_order: 11
@@ -9,23 +9,23 @@ nav_order: 11
 
 ## Start job
  **Steps to start an elastic job**
-   - On the left panel of the landing screen, right click on the job under 'Jobs' tree view.
-   - From the menu items, click 'Start job' button.
+   - On the left panel of the landing screen, right-click on the job under the 'Jobs' tree view.
+   - From the menu items, click the 'Start job' button.
 
 ## Stop job
  **Steps to stop an elastic job**
-   - On the left panel of the landing screen, right click on the job under 'Jobs' tree view.
-   - From the menu items, click 'Stop job' button.
+   - On the left panel of the landing screen, right-click on the job under 'Jobs' tree view.
+   - From the menu items, click the 'Stop job' button.
 
 ## Enable/Disable job
  **Steps to enable/disable an elastic job**
-   - On the left panel of the landing screen, right click on the job under 'Jobs' tree view.
-   - From the menu items, click 'Enable'/'Disable' button. 
+   - On the left panel of the landing screen, right-click on the job under 'Jobs' tree view.
+   - Click the 'Enable'/'Disable' button from the menu items. 
 
-Note: Enable or Disable button in the menu list will apoear deoending on the current activation status of the job.
+Note: Enable or Disable button in the menu list will appear depending on the current activation status of the job.
 
 ## View history
-The **Job History Viewer** screen provides detailed information about the execution history of specific jobs. Users can access this screen by clicking on the "View History" menu item of a job.
+The **Job History Viewer** screen provides detailed information about the execution history of specific jobs. Users can access this screen by clicking on a job's "View History" menu item.
 
    <img src="../../../../media/job-history-screen.png"  style="width:85%; height:85%">
 
@@ -46,4 +46,4 @@ The **Job History Viewer** screen provides detailed information about the execut
 {: .no_toc }
 Users can navigate through different jobs and their steps to monitor and analyze their execution histories.
 
-For further assistance, click on the ‘Help’ icon at the top-right corner of the dialog box.
+For further assistance, click on the â€˜Helpâ€™ icon at the top-right corner of the dialog box.
