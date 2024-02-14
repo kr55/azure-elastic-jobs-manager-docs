@@ -6,6 +6,10 @@ grand_parent: Documentation
 permalink: /docs/features/create-job/add-step/
 nav_order: 10
 ---
+
+## Table of contents
+{: .no_toc .text-delta }
+
 # Managing job steps
 
 ## Overview

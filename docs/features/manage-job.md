@@ -4,7 +4,7 @@ title: Managing jobs
 parent: Create a job
 grand_parent: Documentation
 permalink: /docs/features/create-job/manage-job/
-nav_order: 11
+nav_order: 12
 ---
 1. TOC
 {:toc}

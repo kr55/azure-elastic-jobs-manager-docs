@@ -7,9 +7,6 @@ nav_order: 9
 ---
 
 # Create or alter the job
-{: .no_toc }
-## Table of contents
-{: .no_toc .text-delta }
 
 ## Navigation
 {: .no_toc }
@@ -38,6 +35,5 @@ nav_order: 9
 {: .note }
 Ensure all required fields are filled out before clicking "OK" to avoid errors and ensure smooth creation of your new Azure elastic jobs.
 
----
 
 
