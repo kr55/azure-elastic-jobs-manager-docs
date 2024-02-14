@@ -10,7 +10,7 @@ nav_order: 11
 # Managing job schedule
 
 ## Overview 
-The **Job Schedule Management** screen in Azure Elastic Jobs allows you to configure scheduling options for your jobs. Here's how to use it effectively:
+This section describes how to configure scheduling options for your jobs. 
 
 ## Navigation
    - On the top panel, select `New Job` to open the job creation window. Click `Schedule` tab.
