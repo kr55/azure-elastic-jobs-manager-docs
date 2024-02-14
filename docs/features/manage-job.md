@@ -67,7 +67,7 @@ Note: Enable or Disable button in the menu list will apoear deoending on the cur
 ## View history
 The **Job History Viewer** screen provides detailed information about the execution history of specific jobs. Users can access this screen by clicking on the "View History" menu item of a job.
 
-   <img src="../../media/job-history-screen.png"  style="width:80%; height:80%">
+   <img src="../../media/job-history-screen.png"  style="width:85%; height:85%">
 
 ### Features and Information Displayed:
 {: .no_toc }

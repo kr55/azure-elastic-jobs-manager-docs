@@ -9,6 +9,8 @@ nav_order: 15
 ## Overview
 The **Settings** screen allows users to manage their preferences, which will be stored for subsequent uses of the tool. Users can customize their experience by adjusting the following settings:
 
+<img src="../../media/settings-screen.png"  style="width:80%; height:80%">
+
 ### 1. Enable Automatic Screen Refresh
 - Users can enable or disable automatic screen refresh.
 - If enabled, users can set the refresh interval in minutes.
