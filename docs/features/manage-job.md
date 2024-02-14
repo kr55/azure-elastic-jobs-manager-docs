@@ -6,6 +6,9 @@ grand_parent: Documentation
 permalink: /docs/features/create-job/manage-job/
 nav_order: 12
 ---
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
 
