@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manage credentials
+title: Create credentials
 parent: Documentation
 nav_order: 12
 ---

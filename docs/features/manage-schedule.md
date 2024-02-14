@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Manage schedule
-parent: Manage job
+title: Manage job schedule
+parent: Create job
 grand_parent: Documentation
-permalink: /docs/features/manage-job/manage-schedule/
+permalink: /docs/features/create-job/manage-schedule/
 nav_order: 11
 ---
 

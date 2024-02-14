@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Manage step
-parent: Manage job
+title: Add job step
+parent: Create job
 grand_parent: Documentation
-permalink: /docs/features/manage-job/manage-step/
+permalink: /docs/features/create-job/add-step/
 nav_order: 10
 ---
 # Managing job steps
