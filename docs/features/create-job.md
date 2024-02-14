@@ -11,9 +11,6 @@ nav_order: 9
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
-{:toc}
-
 ## Navigation
 {: .no_toc }
    - On the top panel, select `New Job` to open the job creation window.

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Add job step
-parent: Create job
+title: Add job steps
+parent: Create a job
 grand_parent: Documentation
 permalink: /docs/features/create-job/add-step/
 nav_order: 10

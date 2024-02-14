@@ -6,6 +6,8 @@ grand_parent: Documentation
 permalink: /docs/features/create-job/manage-job/
 nav_order: 11
 ---
+1. TOC
+{:toc}
 
 ## Start job
  **Steps to start an elastic job**
