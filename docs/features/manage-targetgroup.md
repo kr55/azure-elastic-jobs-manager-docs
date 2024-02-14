@@ -10,6 +10,8 @@ nav_order: 13
 ## Overview
 The **Create Target Group** screen allows users to create a new target group. Once the target group is created, users can add specific targets (databases) where jobs will be executed.
 
+   <img src="../../media/target-group-screen.png"  style="width:80%; height:80%">
+
 ## Steps to Create a Target Group and Add Targets
 
 1. **Navigate to the Create Target Group Screen**
