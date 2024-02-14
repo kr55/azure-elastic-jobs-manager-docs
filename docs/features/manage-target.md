@@ -16,7 +16,7 @@ The **Add Target** screen allows users to specify and add targets to a previousl
 1. **Navigate to the Add Target Screen**
    - Click on "Add target to target group" from the previous screen to open this interface.
 
-      <img src="../../../../media/target-screen.png" style="width:50%; height:50%">
+      <img src="../../../../media/target-screen.png" style="width:65%; height:65%">
 
 2. **Select Target Type**
    - Choose one of the following target types:
