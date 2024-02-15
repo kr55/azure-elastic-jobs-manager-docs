@@ -2,7 +2,7 @@
 layout: default
 title: Managing jobs
 parent: Create a job
-grand_parent: Getting Started
+grand_parent: Getting started
 permalink: /docs/features/create-job/manage-job/
 nav_order: 12
 ---

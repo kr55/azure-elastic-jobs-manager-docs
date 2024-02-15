@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home screen
-parent: Getting Started
+parent: Getting started
 nav_order: 8
 ---
 

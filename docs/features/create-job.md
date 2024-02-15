@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create a job
-parent: Getting Started
+parent: Getting started
 has_children: true
 nav_order: 9
 ---

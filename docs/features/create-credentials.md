@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create credentials
-parent: Getting Started
+parent: Getting started
 nav_order: 12
 ---
 

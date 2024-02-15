@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Settings
-parent: Getting Started
+parent: Getting started
 nav_order: 15
 ---
 # User Profile Settings

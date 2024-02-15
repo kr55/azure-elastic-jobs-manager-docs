@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: Getting started
 nav_order: 6
 has_children: true
 permalink: /docs/features
