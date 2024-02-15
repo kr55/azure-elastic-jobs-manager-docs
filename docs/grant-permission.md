@@ -10,11 +10,14 @@ nav_order: 4
 ```sql
 CREATE USER jobs_manager WITH PASSWORD = '<strong_password>';
 EXEC sp_addrolemember 'jobs_resource_manager', 'jobs_manager'
+```
 
 ```sql
 CREATE USER reader WITH PASSWORD = '<strong_password>';
 EXEC sp_addrolemember 'jobs_resource_manager', 'reader'
+```
 
 ```sql
 CREATE USER admin WITH PASSWORD = '<strong_password>';
 EXEC sp_addrolemember 'jobs_admin', 'admin'
+```
