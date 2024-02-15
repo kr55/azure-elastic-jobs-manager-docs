@@ -23,3 +23,4 @@ EXEC sp_addrolemember 'jobs_resource_manager', 'reader'
 
 CREATE USER admin WITH PASSWORD = '<strong_password>';
 EXEC sp_addrolemember 'jobs_admin', 'admin'
+```
