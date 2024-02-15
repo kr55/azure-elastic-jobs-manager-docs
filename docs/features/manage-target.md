@@ -2,7 +2,7 @@
 layout: default
 title: Manage target
 parent: Manage target group
-grand_parent: Documentation
+grand_parent: Getting Started
 permalink: /docs/features/manage-targetgroup/manage-target/
 nav_order: 14
 ---

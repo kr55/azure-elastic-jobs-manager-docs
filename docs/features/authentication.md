@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Authentication
-parent: Documentation
+parent: Getting Started
 nav_order: 7
 ---
 # Connecting to Azure Elastic Job Database

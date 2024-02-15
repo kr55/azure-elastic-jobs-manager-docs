@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home screen
-parent: Documentation
+parent: Getting Started
 nav_order: 8
 ---
 

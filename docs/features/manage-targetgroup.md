@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Manage target group
-parent: Documentation
+parent: Getting Started
 has_children: true
 nav_order: 13
 ---
