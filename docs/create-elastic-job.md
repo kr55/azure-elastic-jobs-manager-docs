@@ -13,7 +13,7 @@ Follow the steps below to create elastic jobs in Azure:
    - Define a unique Elastic Job agent name.
    - Select the Subscription and Resource group.
 
-      <img src="../media/prerequisites/open-azure-portal.png"  style="width:100%; height:10085%">
+      <img src="../media/prerequisites/open-azure-portal.png" style="width:100%; height:10085%">
 
 2. Configure the Elastic Job agent:
    - Choose the Azure SQL Database server and Job database.
@@ -23,7 +23,7 @@ Follow the steps below to create elastic jobs in Azure:
      - Enable Geo-redundancy for regional failover (optional, increases cost).
      - Choose the Storage redundancy level (LRS, GRS, GZRS).
 
-      <img src="../media/prerequisites/create-azure-sql-server.png"  style="width:100%; height:100%">
+      <img src="../media/prerequisites/create-azure-sql-server.png" style="width:100%; height:100%">
 
 3. Create a new job database:
    - Define the Job database name.
@@ -31,14 +31,14 @@ Follow the steps below to create elastic jobs in Azure:
    - Optional settings:
      - Configure database for further customization (service tier, backup, threat protection).
 
-      <img src="../media/prerequisites/create-azure-sql-database.png"  style="width:100%; height:100%">
+      <img src="../media/prerequisites/create-azure-sql-database.png" style="width:100%; height:100%">
 
 4. Review and create:
    - Review the summary of your chosen configurations.
    - Click Review + create to provision the Elastic Job Agent.
    - Optionally use Previous to edit earlier settings.
 
-      <img src="../media/prerequisites/review-and-create-elastic-jobs.png"  style="width:100%; height:100%">
+      <img src="../media/prerequisites/review-and-create-elastic-jobs.png" style="width:100%; height:100%">
 
 Additional Notes:
 - This is a preview feature, so agree to preview terms before creating.
