@@ -10,7 +10,8 @@ nav_order: 10
 ## Table of contents
 {: .no_toc .text-delta }
 
-- TOC {:toc}
+1. TOC
+{:toc}
 
 # Managing job steps
 
