@@ -32,11 +32,28 @@ EXEC sp_addrolemember 'jobs_admin', 'jobsadmin'
 ```
 Creates a user 'jobsadmin' with a strong password and assigns the 'jobs_admin' role for administrative privileges in the Elastic Jobs Database.
 
-# Add user assigned maanged identity to Elastic job agent (Recommended)
-This section advises on the recommended practice of adding a user-assigned managed identity to the Azure Elastic Job Agent. By doing so, you enhance security and streamline authentication processes within your Elastic Jobs environment.
+# Enable User Assigned Managed Identity for Elastic Job Agent (Recommended)
 
-## Create user assigned maanged identity resource in Azure
-This step describes how to create user-assigned managed identity within the Azure portal. If such an identity already exists, skip this step. However, if the identity is not present, proceed with creating it. Once created, this managed identity can be associated with the Elastic Job Agent, facilitating secure authentication with other Azure resources.
+This section provides guidance on the recommended practice of integrating a user-assigned managed identity with the Azure Elastic Job Agent. This approach enhances security and streamlines authentication processes within your Elastic Jobs environment.
 
+## Create User Assigned Managed Identity Resource in Azure
+
+This step outlines the process of creating a user-assigned managed identity within the Azure portal. If such an identity already exists, skip this step. However, if the identity is not present, proceed with creating it. Once established, this managed identity can be associated with the Elastic Job Agent, facilitating secure authentication with other Azure resources.
+
+1. Navigate to the Azure portal and create a User Assigned Managed Identity resource [here](https://portal.azure.com/#create/Microsoft.ManagedIdentity).
+2. Provide a name for the UMI, review the options, and click 'Review + create'.
+
+      <img src="../media/prerequisites/create-umi-in-azure.png" style="width:100%; height:100%">
+
+## Add User Assigned Managed Identity to Elastic Job Agent
+
+1. Access the Elastic Job Agent resource in the Azure portal. Navigate to the 'Identity' option under the security section.
+2. Click the 'Add User Assigned Managed Identity' button.
+3. Select the desired UMI from the options and click 'Add'.
+4. Save your changes.
+
+      <img src="../media/prerequisites/add-umi-to-elastic-agent.png" style="width:100%; height:100%">
+
+Please note that only one UMI can be added to an Elastic Job Agent.
 
 
