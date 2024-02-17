@@ -8,9 +8,7 @@ nav_order: 10
 ---
 
 ## Table of contents
-{: .no_toc .text-delta }
-
-- TOC {:toc}
+{: .no_toc }
 
 # Managing job steps
 
@@ -21,7 +19,7 @@ This section describes how to create/modify steps within a job.
 ### 1. Open Job Properties
    - Navigate to `Job Properties` for the specific job you want to edit.
 
-### 2. Go to Steps Page
+### 2. Go to the Steps Page
    - Click on `Steps` in the navigation pane on the left side.
 
 ### 3. Add New Step
@@ -37,10 +35,10 @@ This section describes how to create/modify steps within a job.
 ### 5. Delete a Step (optional)
    - Select an existing step from the list.
    - Click on ‘Delete’.
-   - Confirm deletion in pop-up window.
+   - Confirm the deletion in the pop-up window.
 
 ## Saving Changes 
-After adding, editing or deleting steps ensure you click ‘OK’ at bottom of screen to save all changes made.
+After adding, editing, or deleting steps ensure you click ‘OK’ at the bottom of the screen to save all changes made.
 
 # Manage Step General Properties
 
@@ -55,7 +53,7 @@ The **Step Properties** screen allows users to manage individual job steps withi
    - Users can view or edit the name of the selected step here.
 
 3. **Credentials**
-   - A dropdown menu allowing users to select or add new credentials for executing this step.
+   - A dropdown menu allows users to select or add new credentials to execute this step.
 
 4. **Target Group**
    - Users can assign or change target groups using this dropdown menu.
@@ -64,7 +62,7 @@ The **Step Properties** screen allows users to manage individual job steps withi
    - Allows users to input or edit commands associated with this job step.
 
 ### Actions
-- The `OK` button saves any changes made to the job step properties.
+- The `OK` button saves any changes to the job step properties.
 - The `Cancel` button discards any unsaved changes and closes the properties window.
 
 
