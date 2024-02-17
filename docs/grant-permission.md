@@ -39,10 +39,4 @@ This section advises on the recommended practice of adding a user-assigned manag
 This step describes how to create user-assigned managed identity within the Azure portal. If such an identity already exists, skip this step. However, if the identity is not present, proceed with creating it. Once created, this managed identity can be associated with the Elastic Job Agent, facilitating secure authentication with other Azure resources.
 
 
-Follwo below steps to do that.
-
-
-
-
-Follow below steps to achive this.
 
