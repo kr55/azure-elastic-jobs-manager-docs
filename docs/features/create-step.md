@@ -13,7 +13,7 @@ nav_order: 10
 1. TOC
 {:toc}
 
-# Managing job steps
+## Managing job steps
 
 This section describes how to create/modify steps within a job.
 
@@ -28,16 +28,16 @@ The **Step Properties** screen allows users to manage individual job steps withi
 
    <img src="../../../../media/step-general-screen.png" style="width:80%; height:80%">
 
-2. **Step Name**
+1. **Step Name**
    - Users can view or edit the name of the selected step here.
 
-3. **Credentials**
+2. **Credentials**
    - A dropdown menu allows users to select or add new credentials to execute this step.
 
-4. **Target Group**
+3. **Target Group**
    - Users can assign or change target groups using this dropdown menu.
 
-5. **Command Field**
+4. **Command Field**
    - Allows users to input or edit commands associated with this job step.
 
 
@@ -47,27 +47,27 @@ The **Advanced** page of the step properties allows users to configure retry set
 
    <img src="../../../../media/step-advanced-screen.png" style="width:80%; height:80%">
 
-### 1. Step Timeout
+1. **Step Timeout**
 - **Description**: The maximum amount of time allocated for a step to complete.
 - **Default Value**: 43200 seconds (12 hours).
 
-### 2. Max Parallelism
+2. **Max Parallelism**
 - **Description**: The maximum number of parallel executions allowed for a step. A value of 0 means null, indicating no limit on parallel executions.
 - **Default Value**: 0 (null).
 
-### 3. Retry Attempts
+3. **Retry Attempts**
 - **Description**: The number of times the system will attempt to retry executing a step in case of failure.
 - **Default Value**: 2 attempts.
 
-### 4. Initial Retry Interval
+4. **Initial Retry Interval**
 - **Description**: The initial time interval before the first retry attempt is made after a failure.
 - **Default Value**: 1 second.
 
-### 5. Maximum Retry Interval
+5. **Maximum Retry Interval**
 - **Description**: The maximum time interval between retry attempts. Each subsequent retry (after the initial) will double the interval time until this maximum value is reached.
 - **Default Value**: 120 seconds.
 
-### 6. Retry Interval Backoff Multiplier 
+6. **Retry Interval Backoff Multiplier** 
 - **Description**: This multiplier increases the interval between retries exponentially to reach up to the Maximum Retry Interval.
 - **Default Value**: 2
 
