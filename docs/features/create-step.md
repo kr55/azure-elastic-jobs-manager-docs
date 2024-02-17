@@ -19,38 +19,14 @@ This section describes how to create/modify steps within a job.
 
    <img src="../../../../media/job-steps-screen.png" style="width:80%; height:80%">
 
-### 1. Open Job Properties
    - Navigate to `Job Properties` for the specific job you want to edit.
-
-### 2. Go to the Steps Page
    - Click on `Steps` in the navigation pane on the left side.
 
-### 3. Add New Step
-   - Click on `New`.
-   - Fill out required information such as `StepName`, `Credential`, `TargetGroup`, and `Command`.
-   - Click `OK` to save.
-
-### 4. Edit Existing Step (optional)
-   - Select an existing step from the list.
-   - Click on `Edit`.
-   - Modify required fields and click `OK`.
-
-### 5. Delete a Step (optional)
-   - Select an existing step from the list.
-   - Click on ‘Delete’.
-   - Confirm the deletion in the pop-up window.
-
-## Saving Changes 
-After adding, editing, or deleting steps ensure you click ‘OK’ at the bottom of the screen to save all changes made.
-
-# Manage Step General Properties
+## Manage Step General Properties
 
 The **Step Properties** screen allows users to manage individual job steps within a job. When a user clicks on a specific step from the steps page of a job, this screen opens. Here are the details of the elements and options available on this screen:
 
    <img src="../../../../media/step-general-screen.png" style="width:80%; height:80%">
-
-1. **Navigation Pane**
-   - Located on the left side, it allows users to navigate between different sections: General, Advanced, and Output settings for the selected step.
 
 2. **Step Name**
    - Users can view or edit the name of the selected step here.
@@ -64,12 +40,8 @@ The **Step Properties** screen allows users to manage individual job steps withi
 5. **Command Field**
    - Allows users to input or edit commands associated with this job step.
 
-### Actions
-- The `OK` button saves any changes to the job step properties.
-- The `Cancel` button discards any unsaved changes and closes the properties window.
 
-
-# Managing Step Retry Settings
+## Managing Step Retry Settings
 
 The **Advanced** page of the step properties allows users to configure retry settings for optimizing the performance and reliability of their job steps. Below are the options available:
 
@@ -101,7 +73,7 @@ The **Advanced** page of the step properties allows users to configure retry set
 
 Note: These are default values except for Max Parallelism which has a default value of 0 meaning null (unlimited parallel executions allowed).
 
-# Configuring Job Step Output to Database Table
+## Configuring Job Step Output to Database Table
 
 The **Output** page in the Step Properties dialog box allows users to enable and configure the output of a job step to a database table. This feature is particularly useful for logging and monitoring job execution.
 
@@ -128,5 +100,3 @@ The **Output** page in the Step Properties dialog box allows users to enable and
 ## Additional Information
 - Ensure that you have necessary permissions to write data into the specified database table.
 - Verify server connectivity before enabling job step output.
-
-For further assistance, click on the ‘Help’ icon at the top-right corner of the dialog box.
