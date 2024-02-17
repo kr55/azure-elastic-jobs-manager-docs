@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Enable managed identity
+title: Enable Managed identity
 parent: Prerequisites
 nav_order: 3
 ---
 
 # Enable User Assigned Managed Identity for Elastic Job Agent (Recommended)
+Optional
+{: .label .label-blue }
 
 This section provides guidance on the recommended practice of integrating a user-assigned managed identity with the Azure Elastic Job Agent. This approach enhances security and streamlines authentication processes within your Elastic Jobs environment.
 
