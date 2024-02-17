@@ -85,6 +85,6 @@ The **Output** page in the Step Properties dialog box allows users to enable and
    - Input the name of your database.
    - Enter the table schema name and table name where job step outputs will be stored.
 
-## Additional Information
+Note
 - Ensure that you have necessary permissions to write data into the specified database table.
 - Verify server connectivity before enabling job step output.
