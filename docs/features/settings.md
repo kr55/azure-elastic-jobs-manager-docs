@@ -20,6 +20,4 @@ The **Settings** screen allows users to manage their preferences, which will be 
 ### 3. Reset Settings and Clear User Profiles
 - Clicking "Reset Now" will restore settings to default and clear all saved user profiles.
 
-## Saving and Exiting 
-After making desired changes, click "Finish" to save preferences and exit the settings screen.
 
