@@ -9,13 +9,14 @@ nav_order: 3
 
 Follow the steps below to create elastic jobs in Azure:
 
-1. Open the [Azure portal](https://portal.azure.com/) and search for [Azure Elastic Jobs](https://portal.azure.com/#create/Microsoft.SQLElasticJobAgentg):
+### Select Azure Elastic Jobs resource in Azure portal:
+   - Open the [Azure portal](https://portal.azure.com/) and search for [Azure Elastic Jobs](https://portal.azure.com/#create/Microsoft.SQLElasticJobAgentg):
    - Define a unique Elastic Job agent name.
    - Select the Subscription and Resource group.
 
       <img src="../media/prerequisites/open-azure-portal.png" style="width:100%; height:100%">
 
-2. Configure the Elastic Job agent:
+### Configure the Elastic Job agent:
    - Choose the Azure SQL Database server and Job database.
    - Select the Service tier for the Job database (S1 or above).
    - Optional settings:
@@ -25,7 +26,7 @@ Follow the steps below to create elastic jobs in Azure:
 
       <img src="../media/prerequisites/create-azure-sql-server.png" style="width:100%; height:100%">
 
-3. Create a new job database:
+### Create a new job database:
    - Define the Job database name.
    - Choose the Compute + storage tier (default: Standard - S1).
    - Optional settings:
@@ -33,13 +34,13 @@ Follow the steps below to create elastic jobs in Azure:
 
       <img src="../media/prerequisites/create-azure-sql-database.png" style="width:100%; height:100%">
 
-4. Review and create:
+### Review and create:
    - Review the summary of your chosen configurations.
    - Click Review + create to provision the Elastic Job Agent.
    - Optionally use Previous to edit earlier settings.
 
       <img src="../media/prerequisites/review-and-create-elastic-jobs.png" style="width:100%; height:100%">
 
-Additional Notes:
+Note:
 - This is a preview feature, so agree to preview terms before creating.
 - Refer to [Microsoft documentation](https://learn.microsoft.com/en-us/azure/azure-sql/database/job-automation-overview) for more details.
