@@ -12,7 +12,8 @@ Optional
 This section provides guidance on the recommended practice of integrating a user-assigned managed identity with the Azure Elastic Job Agent. 
 This approach enhances security and streamlines authentication processes within your Elastic Jobs environment. With Microsoft Entra ID support, the job agent will be able to connect to target databases (databases, servers, elastic pools) and output database(s) using the UMI.
 
-      <img src="../media/prerequisites/umi-jobuser.svg" style="width:100%; height:100%">
+<img src="../media/prerequisites/umi-jobuser.svg" style="width:100%; height:100%">
+      
 Image source: [Microsoft learn](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-jobs-overview?view=azuresql)
 
 ## Create User Assigned Managed Identity Resource in Azure
