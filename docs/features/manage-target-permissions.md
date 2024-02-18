@@ -32,7 +32,7 @@ ALTER ROLE db_datawriter ADD MEMBER [jobuserUMI];
 
 Image source: [Microsoft learn](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-jobs-overview?view=azuresql)
 1. 1. Login to each target Azure SQL server using any client tools like Azure data studio or SQL Server Management Studio 18/19. 
-2. Create login jobuser in master database.
+2. Create login jobuser in master database. The username should be same as that of identity of the job credentials and password should be same as job credentials password. 
 ```sql
 --Master db
 CREATE LOGIN [jobuser] WITH PASSWORD '<strong password>';
