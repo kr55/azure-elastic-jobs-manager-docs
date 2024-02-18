@@ -8,8 +8,6 @@ nav_order: 11
 ---
 
 # Managing job schedule
-
-## Overview 
 This section describes how to configure scheduling options for your jobs. 
 
 ## Navigation

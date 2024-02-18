@@ -7,8 +7,6 @@ permalink: /docs/features/manage-targetgroup/manage-target-permissions/
 nav_order: 15
 ---
 # Manage permissions on Targets
-
-## Overview
 All the targets belonging to target group should have minimum required permissions to run the script under job steps. 
 
 ### User assigned managed identity credentials:

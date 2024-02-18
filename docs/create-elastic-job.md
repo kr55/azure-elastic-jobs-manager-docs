@@ -6,7 +6,6 @@ nav_order: 3
 ---
 
 # Create Elastic Job agent resource in Azure
-
 Follow the steps below to create elastic jobs in Azure:
 
 ### Select Azure Elastic Jobs resource in Azure portal:

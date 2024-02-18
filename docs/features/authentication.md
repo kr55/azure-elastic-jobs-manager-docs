@@ -5,12 +5,10 @@ parent: Getting started
 nav_order: 7
 ---
 # Connecting to Azure Elastic Job Database
-
-## Overview
 The **Login Screen** allows users to connect to an Azure SQL database where elastic jobs are configured. Users need to provide login details with minimum permissions to manage elastic jobs. The authentication method used is SQL Server Authentication.
 
 <img src="../../media/login-screen.png"  style="width:80%; height:80%">
-## Connection Details
+### Connection Details
 
 1. **Server Name**
    - Enter the server name of your Azure SQL elastic job database in the `Server name` field.

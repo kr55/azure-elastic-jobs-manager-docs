@@ -5,7 +5,6 @@ parent: Getting started
 nav_order: 8
 ---
 
-## Overview
 Upon logging in to the Azure Elastic Job database, users are presented with the landing screen of Azure Elastic Jobs Manager. This interface serves as the central hub for managing and monitoring various jobs and target groups.
 
 ## Interface Elements

@@ -5,8 +5,6 @@ parent: Getting started
 nav_order: 15
 ---
 # User Profile Settings
-
-## Overview
 The **Settings** screen allows users to manage their preferences, which will be stored for subsequent uses of the tool. Users can customize their experience by adjusting the following settings:
 
 <img src="../../media/settings-screen.png"  style="width:80%; height:80%">
