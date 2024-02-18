@@ -14,7 +14,7 @@ All the targets belonging to target group should have minimum required permissio
 In case you have added user assigned managed identity on Elastic jobs resource, you need  to grant this user assigned managed ideneity access on all target databases belonging to target group.
   <img src="../../../../media/umi-jobuser.svg" style="width:100%; height:100%">
 
-Image source: [Microsoft learn](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-jobs-overview?view=azuresql)
+Image source: [Microsoft learn](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-jobs-overview?view=azuresql#authentication-via-user-assigned-managed-identity-umi)
 
 1. Login to each target Azure SQL server with Microsoft Entra ID admin account using any client tools like Azure data studio or SQL Server Management Studio 18/19. 
 2. grant minimum permissions to each target database under Azure SQL Server to user assigned managed identity. 
@@ -30,7 +30,7 @@ ALTER ROLE db_datawriter ADD MEMBER [jobuserUMI];
 
   <img src="../../../../media/job-credentials.png" style="width:100%; height:100%">
 
-Image source: [Microsoft learn](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-jobs-overview?view=azuresql)
+Image source: [Microsoft learn](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-jobs-overview?view=azuresql#authentication-via-database-scoped-credentials)
 1. Login to each target Azure SQL server using any client tools like Azure data studio or SQL Server Management Studio 18/19. 
 2. Create login jobuser in master database. The username should be same as that of identity of the job credentials and password should be same as job credentials password. 
 ```sql
