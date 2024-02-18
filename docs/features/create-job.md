@@ -7,9 +7,6 @@ nav_order: 9
 ---
 
 # Create or alter the job
-
-## Navigation
-{: .no_toc }
    - On the top panel, select `New Job` to open the job creation window.
    - Or double-click on an existing job to edit the job.
    - Or right-click on an existing job and click on `Properties` to edit the job.

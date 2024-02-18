@@ -9,8 +9,6 @@ nav_order: 11
 
 # Managing job schedule
 This section describes how to configure scheduling options for your jobs. 
-
-## Navigation
    - On the top panel, select `New Job` to open the job creation window. Click `Schedule` tab.
    - Double-click on an existing job to edit the job. Click `Schedule` tab.
    - Right-click on an existing job and click on `Manage Schedule`.
