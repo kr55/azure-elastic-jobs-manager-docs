@@ -28,17 +28,10 @@ The **Step Properties** screen allows users to manage individual job steps withi
 
    <img src="../../../../media/step-general-screen.png" style="width:80%; height:80%">
 
-1. **Step Name**
-   - Users can view or edit the name of the selected step here.
-
-2. **Credentials**
-   - A dropdown menu allows users to select or add new credentials to execute this step.
-
-3. **Target Group**
-   - Users can assign or change target groups using this dropdown menu.
-
-4. **Command Field**
-   - Allows users to input or edit commands associated with this job step.
+1. **Step Name**: Users can view or edit the name of the selected step here.
+2. **Credentials**: A dropdown menu allows users to select or add new credentials to execute this step.
+3. **Target Group**: Users can assign or change target groups using this dropdown menu.
+4. **Command Field**: Allows users to input or edit commands associated with this job step.
 
 
 ## Managing Step Retry Settings

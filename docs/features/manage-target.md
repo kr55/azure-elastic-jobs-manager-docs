@@ -32,6 +32,4 @@ The **Add Target** screen allows users to specify and add targets to a previousl
 4. **Click OK to Add the New Target**
    - Confirm your choices and add the target to the target group.
 
-## Closing Interface
-Click on “Cancel” or close the window to exit without adding a new target.
 
