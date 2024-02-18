@@ -50,5 +50,3 @@ The **Job History Viewer** screen provides detailed information about the execut
 ### Navigation:
 {: .no_toc }
 Users can navigate through different jobs and their steps to monitor and analyze their execution histories.
-
-For further assistance, click on the ‘Help’ icon at the top-right corner of the dialog box.
