@@ -9,5 +9,19 @@ nav_order: 15
 # Manage permissions on Targets
 
 ## Overview
-The **Add Target** screen allows users to specify and add targets to a previously created target group. Targets represent databases where jobs will be executed. Users can choose from three target types: SqlServer, SqlElasticPool, and SqlDatabase.
+All the targets belonging to target group should have minimum required permissions to run the script under job steps. 
 
+### User assigned managed identity credentials:
+In case you have added user assigned managed identity on Elastic jobs resource, you need  to grant this user assigned managed ideneity access on all target databases belonging to target group.
+
+1. Login to each target Azure SQL server with Microsoft Entra ID admin account using any client tools like Azure data studio or SQL Server Management Studio 18/19. 
+2. grant minimum permissions to each target database under Azure SQL Server to user assigned managed identity. 
+
+```sql
+CREATE USER [UserMI] FROM EXTERNAL PROVIDER;
+
+ALTER ROLE db_datareader ADD MEMBER [UserMI];
+ALTER ROLE db_datawriter ADD MEMBER [UserMI];
+```
+
+### Database scoped credentials
