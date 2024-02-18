@@ -9,7 +9,7 @@ nav_order: 15
 # Manage permissions on Targets
 All the targets belonging to target group should have minimum required permissions to run the script under job steps. With Microsoft Entra ID support, the job agent will be able to connect to target databases (databases, servers, elastic pools) and output database(s) using the UMI.
 
-  <img src="../../../../media/prerequisites/umi-jobuser.svg" style="width:100%; height:100%">
+  <img src="../../../../media/umi-jobuser.svg" style="width:100%; height:100%">
 
 Image source: [Microsoft learn](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-jobs-overview?view=azuresql)
 
