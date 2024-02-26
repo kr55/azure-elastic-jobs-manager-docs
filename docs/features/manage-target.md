@@ -32,10 +32,10 @@ The **Add Target** screen allows users to specify and add targets to a previousl
 
 ## Steps to Delete a target from Target group
 
-1. "Open the target group properties"
+1. **Open the target group properties**
    - Open the target group containing the target you would like to delete.
 
-2. "Select the target from the grid"
+2. **Select the target from the grid**
    - Select the target from the target grid you would like to delete and scroll the row to the right.
    - Click on Delete action button.
    - Click Yes on the confirmation screen to delete the target. 
