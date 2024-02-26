@@ -1,8 +1,8 @@
 title: Azure Elastic Jobs Manager
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: Manage elastic jobs in Azure from your desktop.
 theme: just-the-docs
 
-url: https://kr55.github.io/azure-elastic-jobs-client-docs
+url: https://elasticjobsmanager.azureops.org
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
