@@ -9,7 +9,7 @@ nav_order: 14
 # Adding targets to target group
 The **Add Target** screen allows users to specify and add targets to a previously created target group. Targets represent databases where jobs will be executed. Users can choose from three target types: SqlServer, SqlElasticPool, and SqlDatabase.
 
-### Steps to Add a New Target
+## Steps to Add a New Target
 
 1. **Navigate to the Add Target Screen**
    - Click on "Add target to target group" from the previous screen to open this interface.
@@ -30,4 +30,17 @@ The **Add Target** screen allows users to specify and add targets to a previousl
 4. **Click OK to Add the New Target**
    - Confirm your choices and add the target to the target group.
 
+## Steps to Delete a target from Target group
+
+1. "Open the target group properties"
+   - Open the target group containing the target you would like to delete.
+
+2. "Select the target from the grid"
+   - Select the target from the target grid you would like to delete and scroll the row to the right.
+   - Click on Delete action button.
+   - Click Yes on the confirmation screen to delete the target. 
+  
+     <img src="../../../../media/delete-target-screen.png" style="width:65%; height:65%">
+  
+   
 
