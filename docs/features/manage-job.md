@@ -27,7 +27,8 @@ nav_order: 12
    - On the left panel of the landing screen, right-click on the job under 'Jobs' tree view.
    - Click the 'Enable'/'Disable' button from the menu items. 
 
-Note: Enable or Disable button in the menu list will appear depending on the current activation status of the job.
+{: .note } 
+Enable or Disable button in the menu list will appear depending on the current activation status of the job.
 
 ## View history
 The **Job History Viewer** screen provides detailed information about the execution history of specific jobs. Users can access this screen by clicking on a job's "View History" menu item.

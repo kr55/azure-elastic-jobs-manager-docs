@@ -29,4 +29,5 @@ This step outlines the process of creating a user-assigned managed identity with
 
       <img src="../media/prerequisites/add-umi-to-elastic-agent.png" style="width:100%; height:100%">
 
-Please note that only one UMI can be added to an Elastic Job Agent.
+{: .note } 
+Only one UMI can be added to an Elastic Job Agent.

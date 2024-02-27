@@ -36,4 +36,5 @@ This section describes how to configure scheduling options for your jobs.
 - Click **OK** to save your configurations.
 - Click **Cancel** to discard any changes.
 
+{: .note } 
 If you wish to schedule the job in different timezone, go to settings of the wizard and change the timezone. Reopen the job schedule.

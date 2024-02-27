@@ -64,7 +64,8 @@ The **Advanced** page of the step properties allows users to configure retry set
 - **Description**: This multiplier increases the interval between retries exponentially to reach up to the Maximum Retry Interval.
 - **Default Value**: 2
 
-Note: These are default values except for Max Parallelism which has a default value of 0 meaning null (unlimited parallel executions allowed).
+{: .note } 
+These are default values except for Max Parallelism which has a default value of 0 meaning null (unlimited parallel executions allowed).
 
 ## Configuring Job Step Output to Database Table
 
@@ -78,6 +79,6 @@ The **Output** page in the Step Properties dialog box allows users to enable and
    - Input the name of your database.
    - Enter the table schema name and table name where job step outputs will be stored.
 
-Note
+{: .note } 
 - Ensure that you have necessary permissions to write data into the specified database table.
 - Verify server connectivity before enabling job step output.
