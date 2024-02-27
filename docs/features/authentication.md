@@ -31,5 +31,4 @@ The **Login Screen** allows users to connect to an Azure SQL database where elas
 
 6. Click `Next` to Connect.
 
-{: .note }
-Ensure that permissions are set up appropriately, adhering to the principle of least privilege, granting only necessary permissions needed for elastic jobs operations.
+{: .note } Ensure that permissions are set up appropriately, adhering to the principle of least privilege, granting only necessary permissions needed for elastic jobs operations.
