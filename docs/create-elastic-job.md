@@ -6,6 +6,11 @@ nav_order: 3
 ---
 
 # Create Elastic Job agent resource in Azure
+
+{: .warning } 
+This is a preview feature, so agree to preview terms before creating.
+Refer to [Microsoft documentation](https://learn.microsoft.com/en-us/azure/azure-sql/database/job-automation-overview) for more details.
+
 Follow the steps below to create elastic jobs in Azure:
 
 ### Select Azure Elastic Jobs resource in Azure portal:
@@ -40,6 +45,4 @@ Follow the steps below to create elastic jobs in Azure:
 
       <img src="../media/prerequisites/review-and-create-elastic-jobs.png" style="width:100%; height:100%">
 
-{: .warning } 
-This is a preview feature, so agree to preview terms before creating.
-Refer to [Microsoft documentation](https://learn.microsoft.com/en-us/azure/azure-sql/database/job-automation-overview) for more details.
+
