@@ -25,7 +25,7 @@ The **New Credential** screen is launched when a user clicks on "Create Credenti
 **Identity**: A text field for entering identity associated with the credentials.
 
 {: .note } 
-- Identity and password used to create the credentials should match exactly with the user creaed in each target database.
+Identity and password used to create the credentials should match exactly with the user creaed in each target database.
 
 
 
