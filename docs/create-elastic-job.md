@@ -8,7 +8,7 @@ nav_order: 3
 # Create Elastic Job agent resource in Azure
 
 {: .warning } 
-This is a preview feature, so agree to preview terms before creating.
+Azure Elastic jobs is in public preview, so agree to preview terms before using this service.
 Refer to [Microsoft documentation](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-jobs-overview?view=azuresql) for more details.
 
 Follow the steps below to create elastic jobs in Azure:
