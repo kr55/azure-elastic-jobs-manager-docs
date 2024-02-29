@@ -6,12 +6,12 @@ nav_order: 1
 
 # Azure Elastic Jobs Manager
 
-Azure Elastic Jobs Manager enables seamless management of elastic jobs in Azure directly from your desktop. This tool serves as an extension to Visual Studio versions 2017, 2019, and 2022, as well as SQL Server Management Studio versions 18 and 19, streamlining the process of overseeing your elastic job deployments.
+Azure Elastic Jobs Manager enables seamless management of Elastic Jobs in Azure directly from your desktop. This tool serves as an extension to Visual Studio versions 2017, 2019, and 2022, as well as SQL Server Management Studio versions 18 and 19, streamlining the process of overseeing your elastic job deployments.
 {: .fs-6 .fw-300 }
 
 ## Key Features
 - **Intuitive UI**: Navigate through a well-designed user interface to easily manage your Azure Elastic Jobs.
-- **Efficient Job Management**: Create, configure, and monitor your elastic jobs across multiple Azure SQL databases.
+- **Efficient Job Management**: Create, configure, and monitor your Elastic jobs across multiple Azure SQL databases.
 - **Direct Integration**: Works seamlessly with Azure Elastic Jobs service, offering a direct pipeline to your database jobs without needing web portal access.
 
 ## How It Works
@@ -20,7 +20,8 @@ Azure Elastic Jobs Manager enables seamless management of elastic jobs in Azure 
 - **Scheduling**: Automate your database maintenance tasks by scheduling jobs to run at specific times or intervals in your preferred timezone.
 
 ## Getting Started
-- **Easy Setup**: Install the extension and connect to your Azure elastic jobs database to start managing your elastic jobs immediately.
-- **Comprehensive Documentation**: Refer to our detailed documentation for step-by-step guides and best practices.
+[Install](https://elasticjobsmanager.azureops.org/docs/installation.html) the extension and connect to your Azure Elastic Jobs database to start managing your Elastic jobs immediately.
+
+<img src="media/landing-screen.png" style="width:100%; height:100%">
 
 Leverage the power of Azure Elastic Jobs with the convenience of your desktop environment. Download the Azure Elastic Jobs Manager extension today and take the first step toward efficient database management!
