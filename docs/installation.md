@@ -3,15 +3,14 @@ layout: default
 title: Installation
 nav_order: 5
 ---
+# Installation and activation
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
-# Installation and activation
-{: .no_toc }
 
 ## How to install
 

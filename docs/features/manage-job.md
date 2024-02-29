@@ -6,6 +6,10 @@ grand_parent: Getting started
 permalink: /docs/features/create-job/manage-job/
 nav_order: 12
 ---
+
+# Managing jobs
+{: .no_toc }
+
 ## Table of contents
 {: .no_toc .text-delta }
 
