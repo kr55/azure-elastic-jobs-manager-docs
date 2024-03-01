@@ -26,7 +26,7 @@ nav_order: 5
 1. Opem Visual Studio 2017 or 2019. 
 2. Click `Tools` menu item and click `Extension and Updates`.
 3. Under `Online` section, search for `Azure Elastic Jobs Manager` and click `Download`.
-<img src="../../media/vs-extension-and-updates.png"  style="width:90%; height:90%">
+<img src="../../media/vs-extension-and-updates.png"  style="width:100%; height:100%">
 3. Once the download is done, restart Visual Studio and complete the installtion.
 4. Click on the Tools menu item. You will see the `Azure Elastic Jobs Manager` option. Click it to launch.
 
@@ -35,7 +35,7 @@ nav_order: 5
 1. Opem Visual Studio 2022. 
 2. Click `Extensions` menu item and click `Manage Extensions`.
 3. Under `Online` section, search for `Azure Elastic Jobs Manager` and click `Download`.
-<img src="../../media/vs-extension-and-updates2022.png"  style="width:90%; height:90%">
+<img src="../../media/vs-extension-and-updates2022.png"  style="width:100%; height:100%">
 3. Once the download is done, restart Visual Studio and complete the installtion.
 4. Click on the Tools menu item. You will see the `Azure Elastic Jobs Manager` option. Click it to launch.
 
