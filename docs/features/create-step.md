@@ -73,10 +73,10 @@ The **Output** page in the Step Properties dialog box allows users to enable and
 
    <img src="../../../../media/step-output-screen.png" style="width:80%; height:80%">
 
-1. Check the 'Enable output' checkbox.
+1. Check the `Enable output` checkbox.
 2. Enter or select the server name where your database is hosted.
-3. In case user assigned managed identity is not enabled, choose from existing credentials or create new by clicking on 'New'.
-4. Input the name of your database.
+3. In case user assigned managed identity is not enabled, choose from existing credentials or create new by clicking on `New`.
+4. Input the name of the output database.
 5  Enter the table schema name and table name where job step outputs will be stored.
 
 {: .note } 
