@@ -9,11 +9,13 @@ nav_order: 1
 Azure Elastic Jobs Manager enables seamless management of Elastic Jobs in Azure directly from your desktop. This tool serves as an extension to Visual Studio versions 2017, 2019, and 2022, as well as SQL Server Management Studio versions 18 and 19, streamlining the process of overseeing your elastic job deployments.
 {: .fs-6 .fw-300 }
 
+<img src="media/landing-screen.png" style="width:70%; height:70%">
+
 ## Key Features
 - **Intuitive UI**: Navigate through a well-designed user interface to easily manage your Azure Elastic Jobs.
 - **Efficient Job Management**: Create, configure, and monitor your Elastic jobs across multiple Azure SQL databases.
 - **Direct Integration**: Works seamlessly with Azure Elastic Jobs service, offering a direct pipeline to your database jobs without needing web portal access.
-<img src="media/landing-screen.png" style="width:70%; height:70%">
+
 
 ## How It Works
 - **Job Configuration**: Set up and manage job agents, targets, and credentials directly within Visual Studio.
