@@ -16,9 +16,9 @@ Azure Elastic Jobs Manager enables seamless management of Elastic Jobs in Azure 
 - **Efficient Job Management**: Create, configure, and monitor your Elastic jobs across multiple Azure SQL databases.
 - **Direct Integration**: Works seamlessly with Azure Elastic Jobs service, offering a direct pipeline to your database jobs without needing web portal access.
 
-
 ## How It Works
-- **Job Configuration**: Set up and manage job agents, targets, and credentials directly within Visual Studio.
+Azure Elastic Jobs Manager uses native SQL procedures offered by Azure Elastic Jobs agent to perform various actions.
+- **Job Configuration**: Set up and manage job agents, targets, and credentials.
 - **Job Execution**: Execute T-SQL scripts across a collection of databases and monitor their performance in real time.
 - **Scheduling**: Automate your database maintenance tasks by scheduling jobs to run at specific times or intervals in your preferred timezone.
 
