@@ -23,29 +23,35 @@ nav_order: 5
 
 **Visual Studio 2017/2019**
 
-[Download Visual Studio 2017/2019 Extension](https://marketplace.visualstudio.com/items?itemName=AzureOps.elasticjobsmanager1719){: .btn .btn-purple .mr-2 }
-
-1. Double-click on the file `Azure.Elastic.Jobs.Manager.Plugin.20172019.vsix` from the unzipped downloaded folder. It will launch the VSIX Installer.
-2. Choose your target Visual Studio and click on Install.
-3. Once the installation is done, restart Visual Studio.
-4. Click on the Tools menu item. You will see the Azure Elastic Jobs Manager option. Click it to launch.
+1. Opem Visual Studio 2017 or 2019. 
+2. Click `Tools` menu item and click `Extension and Updates`.
+3. Under `Online` section, search for `Azure Elastic Jobs Manager` and click `Download`.
+<img src="../../media/vs-extension-and-updates.png"  style="width:70%; height:70%">
+3. Once the download is done, restart Visual Studio and complete the installtion.
+4. Click on the Tools menu item. You will see the `Azure Elastic Jobs Manager` option. Click it to launch.
 
 **Visual Studio 2022**
 
-[Download Visual Studio 2022 Extension](https://marketplace.visualstudio.com/items?itemName=AzureOps.elasticjobsmanager22){: .btn .btn-purple .mr-2 }
-
-1. Double-click on the file `Azure.Elastic.Jobs.Manager.Plugin.2022.vsix` from the unzipped downloaded folder. It will launch the VSIX Installer.
-2. Choose your target Visual Studio and click on Install.
-3. Once the installation is done, restart Visual Studio.
-4. Click on the Tools menu item. You will see the Azure Elastic Jobs Manager option. Click it to launch.
+1. Opem Visual Studio 2022. 
+2. Click `Extensions` menu item and click `Manage Extensions`.
+3. Under `Online` section, search for `Azure Elastic Jobs Manager` and click `Download`.
+<img src="../../media/vs-extension-and-updates2022.png"  style="width:70%; height:70%">
+3. Once the download is done, restart Visual Studio and complete the installtion.
+4. Click on the Tools menu item. You will see the `Azure Elastic Jobs Manager` option. Click it to launch.
 
 **SQL Server Management Studio 18**
+
+[Download Visual Studio 2017/2019 Extension](https://marketplace.visualstudio.com/items?itemName=AzureOps.elasticjobsmanager1719){: .btn .btn-purple .mr-2 }
+
 1. Extract the file `Azure.Elastic.Jobs.Manager.Plugin.20172019.vsix` content in a folder named `Azure Elastic Jobs Manager` using 7zip.
 2. Copy this folder to the location `C:\Program Files (x86)\Microsoft SQL Server Management Studio 18\Common7\IDE\Extensions`. You would need admin permissions to do this.
 3. Restart SSMS 18.
 4. You will now see the "Azure Elastic Jobs Manager" option under the Tools menu item. Click it to Launch.
 
 **SQL Server Management Studio 19**
+
+[Download Visual Studio 2017/2019 Extension](https://marketplace.visualstudio.com/items?itemName=AzureOps.elasticjobsmanager1719){: .btn .btn-purple .mr-2 }
+
 1. Extract the file `Azure.Elastic.Jobs.Manager.Plugin.20172019.vsix` content in a folder named `Azure Elastic Jobs Manager` using 7zip.
 2. Copy this folder to the location `C:\Program Files (x86)\Microsoft SQL Server Management Studio 19\Common7\IDE\Extensions`. You would need admin permissions to do this.
 3. Restart SSMS 19.
