@@ -22,6 +22,6 @@ Azure Elastic Jobs Manager enables seamless management of Elastic Jobs in Azure 
 ## Getting Started
 [Install](https://elasticjobsmanager.azureops.org/docs/installation.html) the extension and connect to your Azure Elastic Jobs database to start managing your Elastic jobs immediately.
 
-<img src="media/landing-screen.png" style="width:100%; height:100%">
+<img src="media/landing-screen.png" style="width:70%; height:70%">
 
 Leverage the power of Azure Elastic Jobs with the convenience of your desktop environment. Download the Azure Elastic Jobs Manager extension today and take the first step toward efficient database management!
