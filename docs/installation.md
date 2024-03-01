@@ -17,6 +17,8 @@ nav_order: 5
 ### Using Azure Elastic Jobs Manager Installer.exe
 1. Double-click the installer file `Azure Elastic Jobs Manager Installer.exe` and follow the steps to complete the installation of Azure Elastic Jobs Manager.
 
+<img src="../../media/aejm-installer.png"  style="width:80%; height:80%">
+
 ### Manual Mode
 
 **Visual Studio 2017/2019**
