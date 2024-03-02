@@ -5,8 +5,8 @@ theme: just-the-docs
 url: https://elasticjobsmanager.azureops.org
 
 aux_links:
-  "Download Now":
-    - "//github.com/just-the-docs/just-the-docs"
+  "Activate Now":
+    - "https://azureops.org/product/azure-elastic-jobs-manager/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
