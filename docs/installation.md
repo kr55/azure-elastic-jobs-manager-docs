@@ -63,9 +63,9 @@ nav_order: 5
 
 ## How to activate license key
 
-[Get Activation Key](https://azureops.org/product/azure-elastic-jobs-manager/){: .btn .btn-green .mr-4 }
+[Get License Key](https://azureops.org/product/azure-elastic-jobs-manager/){: .btn .btn-green .mr-4 }
 
-You would receive the license key via email. You can also find the license key at my-accounts.
+Once you order the License, you would receive the license key via email. You can also find the license key at [my-accounts](https://azureops.org/my-account/view-license-keys/).
 1. Launch `Azure Elastic Jobs Manager Installer.exe`.
 <img src="../../media/aejm-activation.png"  style="width:70%; height:70%">
 2. Enter the product key on the landing page screen and click on the 'Activate Product' button. It should activate the product on the machine.
