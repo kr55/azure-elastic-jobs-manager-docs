@@ -7,6 +7,10 @@ nav_order: 3
 
 # Create Elastic Job agent resource in Azure
 
+{: .note } 
+Azure Elastic jobs is in public preview and expected to be generally available by 1st April 2024. Agree to preview terms before using this service. 
+Refer to [Microsoft documentation](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-jobs-overview?view=azuresql) for more details.
+
 Follow the steps below to create elastic jobs in Azure:
 ### Select Azure Elastic Jobs resource in Azure portal:
    - Open the [Azure portal](https://portal.azure.com/) and search for [Azure Elastic Jobs](https://portal.azure.com/#create/Microsoft.SQLElasticJobAgentg):
