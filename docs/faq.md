@@ -4,7 +4,7 @@ title: Frequently asked questions
 nav_order: 17
 ---
 
-# Disclaimer
+# Frequently asked questions
 {: .no_toc }
 
 **1. What has been included in the software package?**
