@@ -83,6 +83,6 @@ Once you order the License, you would receive the license key via email. You can
 3. Start SSMS 19. You should not see Azure Elastic Jobs Manager button under the tools menu item anymore.
 
 **Visual Studio 2017/2019/2022**
-1. Navigate to the Tools menu item and click on Extensions and updates.
-2. Locate Azure Elastic Jobs Manager from installed plugins and click on Uninstall.
+1. Navigate to the `Tools` menu item and click on `Extensions and updates`.
+2. Locate `Azure Elastic Jobs Manager` from installed plugins and click on `Uninstall` button.
 3. You would need to restart Visual Studio for changes to take effect.
