@@ -13,7 +13,7 @@ You will receive an email with a download link to the product and an activation 
 
 **2. What payment options are available?**
 
-We currently only accept payment via PayPal. If you do not have a PayPal account, PayPal generally offers to use a credit card without creating an account. However, this differs based on your country of origin. Check out PayPal privacy policy. Reach out to our support in case of any payment issues.
+We currently only accept payment via PayPal. If you do not have a PayPal account, PayPal generally offers to use a credit card without creating an account. However, this differs based on your country of origin. Check out PayPal [privacy policy](https://www.paypal.com/us/legalhub/privacy-full). Reach out to our support in case of any payment issues.
 
 **3. Is there a limited feature free trial available?** 
 
