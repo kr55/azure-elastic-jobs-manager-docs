@@ -24,7 +24,7 @@ Lists all existing jobs with their names and statuses:
 Displays all target groups:
 
 ### Job Credentials Type 
-Indicates the type of job credentials being used. This can be User assigned managed identity (UMI) or Database-scoped credentials.
+Indicates the type of job credentials being used. This can be User-assigned managed identity (UMI) or Database-scoped credentials.
 
 ### Top 5 Running Jobs 
 Displays information about the top 5 running jobs including:
