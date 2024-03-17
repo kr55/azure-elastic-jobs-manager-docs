@@ -17,12 +17,12 @@ We currently only accept payment via PayPal. If you do not have a PayPal account
 
 **3. Is there a limited feature free trial available?** 
 
-Curently, we offer 1 month full feature free trial. You can get it from [this](https://azureops.org/product/azure-elastic-jobs-manager/) link.
+Currently, we offer a 1-month full feature free trial. You can get it from [this](https://azureops.org/product/azure-elastic-jobs-manager/) link.
 
 **4. How can I receive software updates?**
 
 AzureOps offers free software updates readily available on the Visual Studio marketplace. If you installed this tool as a Visual Studio extension, these updates will be automatically shipped to you. However, if you do not have extensions, you can download the updates anytime from the marketplace.
 
-**5. Where does the data gets stored?**
+**5. Where does the data get stored?**
 
-Azure Elastic Jobs Manager do not collect any data through this extension as this is an on-premise tool.  It is user's choice to let the wizard remember Azure Elastic database connection credentials locally for future use. 
+Azure Elastic Jobs Manager does not collect any data through this extension as this is an on-premise tool.  It is user's choice to let the wizard remember Azure Elastic database connection credentials locally for future use. 
