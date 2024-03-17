@@ -25,11 +25,11 @@ The **Login Screen** allows users to connect to an Azure SQL database where elas
 		- `Connection Timeout` is the timeout period (in seconds) during which a connection attempt will be made before it’s terminated.
 
 4. **Job Database**
-    – Specify name of the elastic job database.
+    – Specify the name of the elastic job database.
 
 5. `Use user assigned managed identity credentials` option will use UMI credentials to authenticate target databases during job executions. Check this option only if you have enabled user assgined managed identity in Elastic jobs in Azure portal. 
 
 6. Click `Next` to Connect.
 
 {: .note } 
-Ensure that permissions are set up appropriately, adhering to the principle of least privilege, granting only necessary permissions needed for elastic jobs operations.
+Ensure that permissions are set up appropriately, adhering to the principle of least privilege, granting only necessary permissions needed for elastic job operations.
