@@ -27,7 +27,7 @@ The **Login Screen** allows users to connect to an Azure SQL database where elas
 4. **Job Database**
     – Specify the name of the elastic job database.
 
-5. `Use user assigned managed identity credentials` option will use UMI credentials to authenticate target databases during job executions. Check this option only if you have enabled user assgined managed identity in Elastic jobs in Azure portal. 
+5. `Use user-assigned managed identity credentials` option will use UMI credentials to authenticate target databases during job executions. Check this option only if you have enabled user assgined managed identity in Elastic jobs in Azure portal. 
 
 6. Click `Next` to Connect.
 
