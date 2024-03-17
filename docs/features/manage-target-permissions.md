@@ -32,7 +32,7 @@ ALTER ROLE db_datawriter ADD MEMBER [jobuserUMI];
 
 Image source: [Microsoft learn](https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-jobs-overview?view=azuresql#authentication-via-database-scoped-credentials)
 1. Login to each target Azure SQL server using any client tools like Azure Data Studio or SQL Server Management Studio 18/19. 
-2. Create login jobuser in master database. The username should be the same as that of the identity of the job credentials and the password should be the same as the job credentials password. 
+2. Create a login jobuser in the master database. The username should be the same as that of the identity of the job credentials and the password should be the same as the job credentials password. 
 ```sql
 --Master db
 CREATE LOGIN [jobuser] WITH PASSWORD '<strong password>';
