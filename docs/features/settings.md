@@ -13,7 +13,7 @@ The **Settings** screen allows users to manage their preferences, which will be 
 - Users can enable or disable automatic screen refresh.
 - If enabled, users can set the refresh interval in minutes.
 
-### 2. Choose Preferred Time Zone
+### 2. Choose the Preferred Time Zone
 - Users can select their preferred time zone from a dropdown menu.
 - The selected time zone will be saved for future sessions.
 
