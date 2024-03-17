@@ -32,7 +32,7 @@ nav_order: 5
 
 **Visual Studio 2022**
 
-1. Opem Visual Studio 2022. 
+1. Open Visual Studio 2022. 
 2. Click `Extensions` menu item and click `Manage Extensions`.
 3. Under `Online` section, search for `Azure Elastic Jobs Manager` and click `Download`.
 <img src="../../media/vs-extension-and-updates2022.png"  style="width:100%; height:100%">
@@ -59,7 +59,7 @@ nav_order: 5
 
 **Standalone installation**
 1. Extract the file `Azure.Elastic.Jobs.Manager.Plugin.20172019.vsix` content in a folder named `Azure Elastic Jobs Manager` using 7zip.
-2. Place this folder to your preferred location and double-click the `Azure.Elastic.Jobs.Manager.exe` file, to launch the application.
+2. Place this folder in your preferred location and double-click the `Azure.Elastic.Jobs.Manager.exe` file, to launch the application.
 
 ## How to activate license key
 
