@@ -9,7 +9,7 @@ nav_order: 9
 # Create or alter the job
    - On the top panel, select `New Job` to open the job creation window.
    - Or double-click on an existing job to edit the job.
-   - Or right-click on an existing job and click on `Properties` to edit the job.
+   - Or right-click on an existing job and click the `Properties` to edit the job.
 
    <img src="../../media/job-general-screen.png"  style="width:80%; height:80%">
 
@@ -22,7 +22,7 @@ nav_order: 9
    - **Last Executed:** Indicates when this particular job was last executed.
      
 4. **Script & Help Options**
-   - Click on `Script` if you want to script the changes made in the job. This is a SQL script that will be executed against the agent job database when users save job changes.
+   - Click on `Script` if you want to script the changes made in the job. This is an SQL script that will be executed against the agent job database when users save job changes.
    - Click on `Help` for assistance and documentation related to this interface.
 
 5. **Save or Cancel**
