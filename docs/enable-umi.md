@@ -9,7 +9,7 @@ nav_order: 3
 Optional
 {: .label .label-blue }
 
-This section provides guidance on the recommended practice of integrating a user-assigned managed identity with the Azure Elastic Job Agent. This approach enhances security and streamlines authentication processes within your Elastic Jobs environment. 
+This section guides the recommended practice of integrating a user-assigned managed identity with the Azure Elastic Job Agent. This approach enhances security and streamlines authentication processes within your Elastic Jobs environment. 
 
 ## Create User Assigned Managed Identity Resource in Azure
 
