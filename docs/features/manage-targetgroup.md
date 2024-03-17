@@ -12,6 +12,6 @@ The **Create Target Group** screen allows users to create a new target group. On
 
 ### Steps to Create a Target Group
  1. **Enter the Target Group Name**: Enter a unique name for your new target group. 
- 2. Click on the `Create target group` button after entering the desired name. The system will validate if a similar named group exists or not, ensuring uniqueness.
+ 2. Click the `Create target group` button after entering the desired name. The system will validate if the similar named group exists or not, ensuring uniqueness.
 
 
