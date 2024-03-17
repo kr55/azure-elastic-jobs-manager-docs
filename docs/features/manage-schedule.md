@@ -20,10 +20,10 @@ This section describes how to configure scheduling options for your jobs.
 3. **Start Date & Time**:
    - Set the date and time when the job should start executing.
 4. **End Date & Time Options**:
-   - Choose either a specific end date and time or select `No End Date` for perpetual schedulling.
+   - Choose either a specific end date and time or select `No End Date` for perpetual scheduling.
 
 ## Summary Section
 - Displays a summary of your configured schedule settings, including frequency and timing details and the timezone. 
 
 {: .note } 
-If you wish to schedule the job in different timezone, go to settings of the wizard and change the timezone. Reopen the job schedule.
+If you wish to schedule the job in a different timezone, go to settings of the wizard and change the timezone. Reopen the job schedule.
