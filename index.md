@@ -25,7 +25,7 @@ Azure Elastic Jobs Manager enables seamless management of Elastic Jobs in Azure 
 Azure Elastic Jobs Manager uses native SQL procedures offered by Azure Elastic Jobs agent to perform various actions.
 - **Job Configuration**: Set up and manage job agents, targets, and credentials.
 - **Job Execution**: Execute T-SQL scripts across a collection of databases and monitor their performance in real time.
-- **Scheduling**: Automate your database maintenance tasks by scheduling jobs to run at specific times or intervals in your preferred timezone.
+- **Scheduling**: Automate your database script executions by scheduling jobs to run at specific times or intervals in your preferred timezone.
 
 ## Getting Started
 1. **Install the Extension**: Get started by [installing](https://elasticjobsmanager.azureops.org/docs/installation.html)  the extension.
