@@ -14,7 +14,7 @@ Azure Elastic Jobs Manager enables seamless management of Elastic Jobs in Azure 
 
 ---
 
-{% include youtubePlayer.html id="U68Yr2LMGBU" %}
+{% include youtubePlayer.html id="8YVrxCgdiIg" %}
 
 ## Key Features
 - **Intuitive UI**: Navigate through a well-designed user interface to easily manage your Azure Elastic Jobs.
