@@ -11,6 +11,5 @@ has_children: true
 If you already have Azure Elastic Job agent resource in Azure with a SQL server authentication account to the Elastic Jobs database, you can skip this section.
 {: .fs-6 .fw-300 }
 
---
 
 {% include youtubePlayer.html id="slSKtdSeg-k" %}
