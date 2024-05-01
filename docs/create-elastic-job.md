@@ -7,6 +7,8 @@ nav_order: 3
 
 # Create Elastic Job agent resource in Azure
 
+{% include youtubePlayer.html id="slSKtdSeg-k" %}
+
 Follow the steps below to create elastic jobs in Azure:
 ### Select Azure Elastic Jobs resource in Azure portal:
    - Open the [Azure portal](https://portal.azure.com/) and search for [Azure Elastic Jobs](https://portal.azure.com/#create/Microsoft.SQLElasticJobAgentg):
