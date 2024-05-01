@@ -12,4 +12,4 @@ If you already have Azure Elastic Job agent resource in Azure with a SQL server 
 {: .fs-6 .fw-300 }
 
 
-{% include youtubePlayer.html id="slSKtdSeg-k" %}
+
