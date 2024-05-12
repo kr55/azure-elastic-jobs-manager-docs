@@ -8,7 +8,7 @@ nav_order: 16
 ## 1.1.0 (05/12/2024)
 Current
 {: .label .label-blue }
-1. Added 'Script Job as New' menu item to jobs to create a copy of an existing job.
+1. Added 'Clone Job as New' menu item to jobs to create a copy of an existing job.
 2. Added 'Script Job (T-SQL)' menu item to jobs to script entire job definition in T-SQL.
 3. Bug fixes.
 
