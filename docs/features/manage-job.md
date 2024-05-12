@@ -29,7 +29,17 @@ nav_order: 12
 ## Enable/Disable job
  **Steps to enable/disable an elastic job**
    - On the left panel of the landing screen, right-click on the job under 'Jobs' tree view.
-   - Click the 'Enable'/'Disable' button from the menu items. 
+   - Click the 'Enable'/'Disable' button from the menu items.
+
+## Clone as existing job as New
+ **Steps to clone an elastic job**
+   - On the left panel of the landing screen, right-click on the job under 'Jobs' tree view.
+   - Click the 'Clone Job as New' button from the menu items.
+
+## Script as existing job definition
+ **Steps to script job definition of an elastic job in T-SQL**
+   - On the left panel of the landing screen, right-click on the job under 'Jobs' tree view.
+   - Click the 'Script Job (T-SQL)' button from the menu items.
 
 {: .note } 
 Enable or Disable button in the menu list will appear depending on the current activation status of the job.
