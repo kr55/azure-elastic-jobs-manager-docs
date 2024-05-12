@@ -31,14 +31,14 @@ nav_order: 12
    - On the left panel of the landing screen, right-click on the job under 'Jobs' tree view.
    - Click the 'Enable'/'Disable' button from the menu items.
 
-## Clone as existing job as New
+## Clone Job as New
 New
 {: .label .label-green }
  **Steps to clone an elastic job**
    - On the left panel of the landing screen, right-click on the job under 'Jobs' tree view.
    - Click the 'Clone Job as New' button from the menu items.
 
-## Script as existing job definition
+## Script Job (T-SQL)
 New
 {: .label .label-green }
  **Steps to script job definition of an elastic job in T-SQL**
