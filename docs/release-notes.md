@@ -6,10 +6,13 @@ nav_order: 16
 
 # Release notes
 
-
-## 1.1.2 (06/12/2024)
+## 1.1.5 (07/12/2024)
 Current
 {: .label .label-blue }
+1. Job history screen enhanced with more features.
+
+
+## 1.1.2 (06/12/2024)
 1. Added option to resize job, target group, and script viewer screens.
 
 ## 1.1.1 (05/21/2024)
