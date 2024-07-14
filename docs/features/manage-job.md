@@ -49,22 +49,32 @@ New
 Enable or Disable button in the menu list will appear depending on the current activation status of the job.
 
 ## View history
-The **Job History Viewer** screen provides detailed information about the execution history of specific jobs. Users can access this screen by clicking on a job's "View History" menu item.
+The **Job History Viewer** screen provides detailed information about the execution history of specific jobs. 
+Users can access this screen by clicking
+   - the "Job History" button on the landing page ribbon. 
+   - on a job's "View History" menu item.
 
    <img src="../../../../media/job-history-screen.png"  style="width:85%; height:85%">
 
 ### Features and Information Displayed:
 {: .no_toc }
-1. **Job List:**
+1. **Job Status KPI Indicators:**
+   - Displays the percentage of job statuses over the selected period. 
+
+2. **Job List:**
    - Displays a list of jobs with their names, creation times, start times, end times, lifecycle statuses, and messages.
    - Users can select a job to view its specific steps and details.
 
-2. **Step Details:**
+3. **Step Details:**
    - Upon selecting a job, users are presented with the steps associated with that job.
    - Information includes step name, start time, end time, lifecycle status, target type, and target server name.
 
-3. **Execution Message:**
+4. **Execution Message:**
    - At the bottom of the screen is a message displaying the success or failure status of the step execution along with additional details.
+
+5. "Filters"
+   - Filter the jobs from the right-side tree-view list. Double-click on any job to open it's definition,
+   - Select the from and to dates for analyzing the history of job executions. 
 
 ### Navigation:
 {: .no_toc }
