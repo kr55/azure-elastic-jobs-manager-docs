@@ -32,15 +32,11 @@ nav_order: 12
    - Click the 'Enable'/'Disable' button from the menu items.
 
 ## Clone job as New
-New
-{: .label .label-green }
  **Steps to clone an elastic job**
    - On the left panel of the landing screen, right-click on the job under 'Jobs' tree view.
    - Click the 'Clone Job as New' button from the menu items.
 
 ## Script job (T-SQL)
-New
-{: .label .label-green }
  **Steps to script job definition of an elastic job in T-SQL**
    - On the left panel of the landing screen, right-click on the job under 'Jobs' tree view.
    - Click the 'Script Job (T-SQL)' button from the menu items.
@@ -49,6 +45,8 @@ New
 Enable or Disable button in the menu list will appear depending on the current activation status of the job.
 
 ## View history
+Feature update
+{: .label .label-green }
 The **Job History Viewer** screen provides detailed information about the execution history of specific jobs. 
 Users can access this screen by clicking
    - the "Job History" button on the landing page ribbon. 
