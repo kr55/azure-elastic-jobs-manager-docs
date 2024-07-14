@@ -72,7 +72,7 @@ Users can access this screen by clicking
 4. **Execution Message:**
    - At the bottom of the screen is a message displaying the success or failure status of the step execution along with additional details.
 
-5. "Filters"
+5. **Filters:**
    - Filter the jobs from the right-side tree-view list. Double-click on any job to open it's definition,
    - Select the from and to dates for analyzing the history of job executions. 
 
