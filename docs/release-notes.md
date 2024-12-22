@@ -5,7 +5,7 @@ nav_order: 16
 ---
 
 # Release notes
-## 1.1.5 (12/22/2024)
+## 1.1.6 (12/22/2024)
 Current
 {: .label .label-blue }
 1. Added support for SQL Server  Management Studio 20 and 21(preview).
