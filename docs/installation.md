@@ -57,6 +57,15 @@ nav_order: 5
 3. Restart SSMS 19.
 4. You will now see the "Azure Elastic Jobs Manager" option under the Tools menu item. Click it to Launch.
 
+**SQL Server Management Studio 20**
+
+[Download Visual Studio 2017/2019 Extension](https://marketplace.visualstudio.com/items?itemName=AzureOps.elasticjobsmanager1719){: .btn .btn-purple .mr-2 }
+
+1. Extract the file `Azure.Elastic.Jobs.Manager.Plugin.20172019.vsix` content in a folder named `Azure Elastic Jobs Manager` using 7zip.
+2. Copy this folder to the location `C:\Program Files (x86)\Microsoft SQL Server Management Studio 20\Common7\IDE\Extensions`. You would need admin permissions to do this.
+3. Restart SSMS 20.
+4. You will now see the "Azure Elastic Jobs Manager" option under the Tools menu item. Click it to Launch.   
+
 **Standalone installation**
 1. Extract the file `Azure.Elastic.Jobs.Manager.Plugin.20172019.vsix` content in a folder named `Azure Elastic Jobs Manager` using 7zip.
 2. Place this folder in your preferred location and double-click the `Azure.Elastic.Jobs.Manager.exe` file, to launch the application.
@@ -81,6 +90,11 @@ Once you order the License, you will receive the license key via email. You can 
 1. Close all instances of SSMS 19.
 2. Navigate to the location `C:\Program Files (x86)\Microsoft SQL Server Management Studio 19\Common7\IDE\Extensions`. And delete `Azure Elastic Jobs Manager` folder. You would need admin permissions to do this.
 3. Start SSMS 19. You should not see Azure Elastic Jobs Manager button under the tools menu item anymore.
+
+**SQL Server Management Studio 20** 
+1. Close all instances of SSMS 20.
+2. Navigate to the location `C:\Program Files (x86)\Microsoft SQL Server Management Studio 20\Common7\IDE\Extensions`. And delete `Azure Elastic Jobs Manager` folder. You would need admin permissions to do this.
+3. Start SSMS 19. You should not see Azure Elastic Jobs Manager button under the tools menu item anymore.   
 
 **Visual Studio 2017/2019/2022**
 1. Navigate to the `Tools` menu item and click on `Extensions and updates`.
