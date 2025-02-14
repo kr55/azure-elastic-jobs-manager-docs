@@ -94,7 +94,7 @@ Once you order the License, you will receive the license key via email. You can 
 **SQL Server Management Studio 20** 
 1. Close all instances of SSMS 20.
 2. Navigate to the location `C:\Program Files (x86)\Microsoft SQL Server Management Studio 20\Common7\IDE\Extensions`. And delete `Azure Elastic Jobs Manager` folder. You would need admin permissions to do this.
-3. Start SSMS 19. You should not see Azure Elastic Jobs Manager button under the tools menu item anymore.   
+3. Start SSMS 20. You should not see Azure Elastic Jobs Manager button under the tools menu item anymore.   
 
 **Visual Studio 2017/2019/2022**
 1. Navigate to the `Tools` menu item and click on `Extensions and updates`.
