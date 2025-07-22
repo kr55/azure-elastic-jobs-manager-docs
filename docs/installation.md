@@ -12,7 +12,7 @@ nav_order: 5
 1. TOC
 {:toc}
 
-## Order a License Key
+## Order a license key
 
 Unlock the full power of Azure Elastic Jobs Manager by purchasing a license key.
 The licensed version removes trial limitations and enables full features of the tool.
