@@ -19,14 +19,26 @@ The licensed version removes trial limitations and enables full features of the 
 
 [Get License Key](https://azureops.org/product/azure-elastic-jobs-manager/){: .btn .btn-green .mr-2 }
 
-## How to install
+## Download the Installer
 
-### Using the Installer
-1. Double-click the installer file `Azure Elastic Jobs Manager Installer.exe` and follow the steps to complete the installation of Azure Elastic Jobs Manager.
+ Login to your account and navigate to [downloads](https://azureops.org/my-account/downloads/) page. Download the zip file. Alternatively, you will receive a link to download the software by email.
+
+## Choose an Installation Target
+
+1. Launch Azure Elastic Jobs Manager Installer.exe and click Next.
+2. Choose the installation target from SQL Server Management Studio (SSMS), Visual Studio or Standalone installation.
+3. Click Install
 
 <img src="../../media/aejm-installer.png"  style="width:70%; height:70%">
 
-### Manual Mode
+## Activate license key
+
+You will receive the license key via email. You can also find the license key at [my-accounts](https://azureops.org/my-account/view-license-keys/).
+1. Launch Azure Elastic Jobs Manager Installer.exe.
+<img src="../../media/aejm-activation.png"  style="width:70%; height:70%">
+2. Enter the product key on the landing page screen and click on the 'Activate Product' button. It should activate the product on the machine.
+
+## Manual Installation from Visual Studio Marketplace
 
 **Visual Studio 2017/2019**
 
@@ -77,14 +89,7 @@ The licensed version removes trial limitations and enables full features of the 
 1. Extract the file `Azure.Elastic.Jobs.Manager.Plugin.20172019.vsix` content in a folder named `Azure Elastic Jobs Manager` using 7zip.
 2. Place this folder in your preferred location and double-click the `Azure.Elastic.Jobs.Manager.exe` file, to launch the application.
 
-## How to activate license key
-
-Once you order the License, you will receive the license key via email. You can also find the license key at [my-accounts](https://azureops.org/my-account/view-license-keys/).
-1. Launch `Azure Elastic Jobs Manager Installer.exe`.
-<img src="../../media/aejm-activation.png"  style="width:70%; height:70%">
-2. Enter the product key on the landing page screen and click on the 'Activate Product' button. It should activate the product on the machine.
-
-## How to uninstall 
+## Uninstall the software
 
 **SQL Server Management Studio 18**
 1. Close all instances of SSMS 18.
