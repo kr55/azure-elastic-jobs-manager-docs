@@ -23,6 +23,13 @@ The licensed version removes trial limitations and enables full features of the 
 
  Login to your account and navigate to [downloads](https://azureops.org/my-account/downloads/) page. Download the zip file. Alternatively, you will receive a link to download the software by email.
 
+## Activate license key
+
+You will receive the license key via email. You can also find the license key at [my-accounts](https://azureops.org/my-account/view-license-keys/).
+1. Launch Azure Elastic Jobs Manager Installer.exe.
+<img src="../../media/aejm-activation.png"  style="width:70%; height:70%">
+2. Enter the product key on the landing page screen and click on the 'Activate Product' button. It should activate the product on the machine.
+
 ## Choose an Installation Target
 
 1. Launch Azure Elastic Jobs Manager Installer.exe and click Next.
@@ -30,13 +37,6 @@ The licensed version removes trial limitations and enables full features of the 
 3. Click Install
 
 <img src="../../media/aejm-installer.png"  style="width:70%; height:70%">
-
-## Activate license key
-
-You will receive the license key via email. You can also find the license key at [my-accounts](https://azureops.org/my-account/view-license-keys/).
-1. Launch Azure Elastic Jobs Manager Installer.exe.
-<img src="../../media/aejm-activation.png"  style="width:70%; height:70%">
-2. Enter the product key on the landing page screen and click on the 'Activate Product' button. It should activate the product on the machine.
 
 ## Manual Installation from Visual Studio Marketplace
 
