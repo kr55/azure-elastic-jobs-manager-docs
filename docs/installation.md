@@ -49,9 +49,9 @@ You will receive the license key via email. You can also find the license key at
 3. Once the download is done, restart Visual Studio and complete the installation.
 4. Click on the Tools menu item. You will see the `Azure Elastic Jobs Manager` option. Click it to launch.
 
-**Visual Studio 2022**
+**Visual Studio 2022/2026**
 
-1. Open Visual Studio 2022. 
+1. Open Visual Studio 2022 or 2026. 
 2. Click `Extensions` menu item and click `Manage Extensions`.
 3. Under `Online` section, search for `Azure Elastic Jobs Manager` and click `Download`.
 <img src="../../media/vs-extension-and-updates2022.png"  style="width:100%; height:100%">
