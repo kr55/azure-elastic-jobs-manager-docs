@@ -21,7 +21,7 @@ Move your reporting assets between Report Servers with automatic shared referenc
 - Auto-resolve shared references and subscriptions
 
 [Learn more](https://ssrsmigrationwizard.azureops.org/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AzureOps.ssrsmigrationwizard22){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View it on Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AzureOps.srmw2022){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
